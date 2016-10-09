@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_about.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_about.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_thread_reply.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_thread_reply.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/edit.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/edit.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_pic_select.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ImageLib/unspecified/res/menu/menu_pic_select.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_super_settings.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_super_settings.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_login.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_login.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/photoview_viewpager_menu.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/menu/photoview_viewpager_menu.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/adbannerview_menu.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/menu/adbannerview_menu.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_image_looker.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ImageLib/unspecified/res/menu/menu_image_looker.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_act_apply.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_act_apply.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_friends.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_friends.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/activity_main.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ImageLib/unspecified/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/swipetodeletelistview_activity_withconfirm.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/menu/swipetodeletelistview_activity_withconfirm.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_apply_friends.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_apply_friends.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_pure_android.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_pure_android.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_web.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExt/unspecified/res/menu/menu_web.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/main.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/main.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_forum_threads.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_forum_threads.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_forum.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_forum.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/swipebacklayout_main.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/menu/swipebacklayout_main.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_thread_detail.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_thread_detail.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_main.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/BottomTabUI/unspecified/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/photoview_main_menu.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/menu/photoview_main_menu.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/menu/menu_article.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/menu/menu_article.xml"
+    }
+]

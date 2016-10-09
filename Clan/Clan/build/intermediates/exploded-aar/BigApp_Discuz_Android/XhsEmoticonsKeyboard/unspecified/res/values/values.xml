@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apps_func">
+        <item>图片</item>
+        <item>拍照</item>
+    </string-array>
+    <string-array name="apps_func_icon">
+        <item>icon_photo</item>
+        <item>icon_camera</item>
+    </string-array>
+    <color name="btn_select">#888888</color>
+    <color name="btn_send_textcolor">@color/white</color>
+    <color name="common_bg">@color/white</color>
+    <color name="spilt_line">#CFCFCF</color>
+    <color name="toolbar_btn_nomal">@color/white</color>
+    <color name="toolbar_btn_select">#D9D9D9</color>
+    <color name="toolbar_spilt_line">#CDCDCD</color>
+    <color name="white">#FFFFFF</color>
+    <declare-styleable name="XhsEmoticonsKeyBoardBar"><attr format="boolean" name="use_face"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="bar_height">35dp</dimen>
+    <dimen name="horizontalspit_view_height">0.6dp</dimen>
+    <dimen name="indicator_margin">10dp</dimen>
+    <dimen name="verticalspit_view_width">0.6dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">KeyBoard</string>
+    <string name="btn_text_send">发送</string>
+    <string name="btn_text_speak">按住 说话</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="say_sth">说点什么吧~</string>
+    <string name="send_message">发送</string>
+    <style name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/up_in</item>
+        <item name="android:windowExitAnimation">@anim/down_out</item>
+    </style>
+    <style name="keyboard_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

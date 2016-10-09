@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable/skyblue_platform_list_selector.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable/skyblue_platform_list_selector.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable/shape_bottom_pop.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable/shape_bottom_pop.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable/classic_platform_corners_bg.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable/classic_platform_corners_bg.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable/skyblue_platform_list_item_selected.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable/skyblue_platform_list_item_selected.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable/skyblue_platform_list_item.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable/skyblue_platform_list_item.xml"
+    }
+]

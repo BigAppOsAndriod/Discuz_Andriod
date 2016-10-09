@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blurred_imageview_list_content">
+        <item> "Lorem ipsum dolor sit amet, </item>
+        <item>consectetur adipiscing elit. Sed rutrum, </item>
+        <item>ligula eu fringilla condimentum, </item>
+        <item>lorem augue varius odio, vel sagittis neque nibh porttitor dui. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Duis a est ultricies, accumsan mi a, </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>In lobortis, sem vel rhoncus hendrerit, odio diam rutrum ipsum, ut varius lorem dui at mauris. </item>
+        <item>Vestibulum lobortis et quam non convallis. Phasellus viverra porta nisl, eu luctus erat tincidunt et. </item>
+        <item>Maecenas ac lorem dapibus, dictum turpis quis, blandit mi." </item>
+    </string-array>
+    <string-array name="departments">
+		<item>Ain</item>
+		<item>Aisne</item>
+		<item>Allier</item>
+		<item>Alpes-de-Haute-Provence</item>
+		<item>Hautes-Alpes</item>
+		<item>Alpes-Maritimes</item>
+		<item>Ardèche</item>
+		<item>Ardennes</item>
+		<item>Ariège</item>
+		<item>Aube</item>
+		<item>Aude</item>
+		<item>Aveyron</item>
+		<item>Bouches-du-Rhône</item>
+		<item>Calvados</item>
+		<item>Cantal</item>
+		<item>Charente</item>
+		<item>Charente-Maritime</item>
+		<item>Cher</item>
+		<item>Corrèze</item>
+		<item>Corse-du-Sud</item>
+		<item>Haute-Corse</item>
+		<item>Côte-d\'Or</item>
+		<item>Côtes-d\'Armor</item>
+		<item>Creuse</item>
+		<item>Dordogne</item>
+		<item>Doubs</item>
+		<item>Drôme</item>
+		<item>Eure</item>
+		<item>Eure-et-Loir</item>
+		<item>Finistère</item>
+		<item>Gard</item>
+		<item>Haute-Garonne</item>
+		<item>Gers</item>
+		<item>Gironde</item>
+		<item>Hérault</item>
+		<item>Ille-et-Vilaine</item>
+		<item>Indre</item>
+		<item>Indre-et-Loire</item>
+		<item>Isère</item>
+		<item>Jura</item>
+		<item>Landes</item>
+		<item>Loir-et-Cher</item>
+		<item>Loire</item>
+		<item>Haute-Loire</item>
+		<item>Loire-Atlantique</item>
+		<item>Loiret</item>
+		<item>Lot</item>
+		<item>Lot-et-Garonne</item>
+		<item>Lozère</item>
+		<item>Maine-et-Loire</item>
+		<item>Manche</item>
+		<item>Marne</item>
+		<item>Haute-Marne</item>
+		<item>Mayenne</item>
+		<item>Meurthe-et-Moselle</item>
+		<item>Meuse</item>
+		<item>Morbihan</item>
+		<item>Moselle</item>
+		<item>Nièvre</item>
+		<item>Nord</item>
+		<item>Oise</item>
+		<item>Orne</item>
+		<item>Pas-de-Calais</item>
+		<item>Puy-de-Dôme</item>
+		<item>Pyrénées-Atlantiques</item>
+		<item>Hautes-Pyrénées</item>
+		<item>Pyrénées-Orientales</item>
+		<item>Bas-Rhin</item>
+		<item>Haut-Rhin</item>
+		<item>Rhône</item>
+		<item>Haute-Saône</item>
+		<item>Saône-et-Loire</item>
+		<item>Sarthe</item>
+		<item>Savoie</item>
+		<item>Haute-Savoie</item>
+		<item>Paris</item>
+		<item>Seine-Maritime</item>
+		<item>Seine-et-Marne</item>
+		<item>Yvelines</item>
+		<item>Deux-Sèvres</item>
+		<item>Somme</item>
+		<item>Tarn</item>
+		<item>Tarn-et-Garonne</item>
+		<item>Var</item>
+		<item>Vaucluse</item>
+		<item>Vendée</item>
+		<item>Vienne</item>
+		<item>Haute-Vienne</item>
+		<item>Vosges</item>
+		<item>Yonne</item>
+		<item>Territoire de Belfort</item>
+		<item>Essonne</item>
+		<item>Hauts-de-Seine</item>
+		<item>Seine-Saint-Denis</item>
+		<item>Val-de-Marne</item>
+		<item>Val-d\'Oise</item>
+		<item>Guadeloupe</item>
+		<item>Martinique</item>
+		<item>Guyane</item>
+		<item>La Réunion</item>
+		<item>Mayotte</item>
+	</string-array>
+    <string-array name="firstNames">
+		<item>Marie</item>
+		<item>Nathalie</item>
+		<item>Isabelle</item>
+		<item>Catherine</item>
+		<item>Sylvie</item>
+		<item>Monique</item>
+		<item>Françoise</item>
+		<item>Martine</item>
+		<item>Jacqueline</item>
+		<item>Anne</item>
+		<item>Christine</item>
+		<item>Nicole</item>
+		<item>Valérie</item>
+		<item>Sandrine</item>
+		<item>Stéphanie</item>
+		<item>Sophie</item>
+		<item>Céline</item>
+		<item>Véronique</item>
+		<item>Jeanne</item>
+		<item>Chantal</item>
+		<item>Jean</item>
+		<item>Michel</item>
+		<item>Pierre</item>
+		<item>Philippe</item>
+		<item>Alain</item>
+		<item>Nicolas</item>
+		<item>Christophe</item>
+		<item>Patrick</item>
+		<item>Frédéric</item>
+		<item>Laurent</item>
+		<item>Stéphane</item>
+		<item>David</item>
+		<item>Christian</item>
+		<item>Sébastien</item>
+		<item>Éric</item>
+		<item>Bernard</item>
+		<item>André</item>
+		<item>Daniel</item>
+		<item>Julien</item>
+		<item>Pascal</item>
+	</string-array>
+    <string-array name="lastNames">
+		<item>Martin</item>
+		<item>Simon</item>
+		<item>Morel</item>
+		<item>Legrand</item>
+		<item>Perrin</item>
+		<item>Bernard</item>
+		<item>Laurent</item>
+		<item>Girard</item>
+		<item>Garnier</item>
+		<item>Morin</item>
+		<item>Dubois</item>
+		<item>Lefebvre</item>
+		<item>Andre</item>
+		<item>Faure</item>
+		<item>Mathieu</item>
+		<item>Thomas</item>
+		<item>Michel</item>
+		<item>Lefevre</item>
+		<item>Rousseau</item>
+		<item>Clement</item>
+		<item>Robert</item>
+		<item>Garcia</item>
+		<item>Mercier</item>
+		<item>Blanc</item>
+		<item>Gauthier</item>
+		<item>Richard</item>
+		<item>David</item>
+		<item>Dupont</item>
+		<item>Guerin</item>
+		<item>Dumont</item>
+		<item>Petit</item>
+		<item>Bertrand</item>
+		<item>Lambert</item>
+		<item>Muller</item>
+		<item>Lopez</item>
+		<item>Durand</item>
+		<item>Roux</item>
+		<item>Bonnet</item>
+		<item>Henry</item>
+		<item>Fontaine</item>
+		<item>Leroy</item>
+		<item>Vincent</item>
+		<item>Francois</item>
+		<item>Roussel</item>
+		<item>Chevalier</item>
+		<item>Moreau</item>
+		<item>Fournier</item>
+		<item>Martinez</item>
+		<item>Nicolas</item>
+		<item>Robin</item>
+	</string-array>
+    <color name="bg_color">#404040</color>
+    <color name="listBackground">@android:color/darker_gray</color>
+    <color name="myItemViewBackground">#E4E3E8</color>
+    <color name="notification_color">#181818</color>
+    <color name="primary">#009688</color>
+    <color name="primary_pressed">#26a69a</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="topbar_color">#0077cc</color>
+    <color name="z_item_line">#dedbdc</color>
+    <declare-styleable name="CircleProgressBar"><attr format="integer" name="CircleProgressBar_max"/><attr format="boolean" name="CircleProgressBar_fill"/><attr format="integer" name="CircleProgressBar_Paint_Width"/><attr format="integer" name="CircleProgressBar_Paint_Color"/><attr format="integer" name="CircleProgressBar_Inside_Interval"/></declare-styleable>
+    <declare-styleable name="FloatingActionButton"><attr format="integer" name="FloatingActionButton_drawable"/><attr format="color" name="FloatingActionButton_color"/><attr format="float" name="FloatingActionButton_shadowRadius"/><attr format="float" name="FloatingActionButton_shadowDx"/><attr format="float" name="FloatingActionButton_shadowDy"/><attr format="integer" name="FloatingActionButton_shadowColor"/></declare-styleable>
+    <declare-styleable name="FloatingView"><attr format="integer" name="FloatingView_drawable"/><attr format="color" name="FloatingView_color"/><attr format="float" name="FloatingView_shadowRadius"/><attr format="float" name="FloatingView_shadowDx"/><attr format="float" name="FloatingView_shadowDy"/><attr format="integer" name="FloatingView_shadowColor"/></declare-styleable>
+    <declare-styleable name="GoBackTextView"><attr format="reference" name="GoBackTextView_background"/><attr format="string" name="GoBackTextView_title"/><attr format="color" name="GoBackTextView_title_color"/><attr format="dimension" name="GoBackTextView_title_size"/><attr format="string" name="GoBackTextView_content"/><attr format="color" name="GoBackTextView_content_color"/><attr format="dimension" name="GoBackTextView_content_size"/><attr format="string" name="GoBackTextView_content_title"/><attr format="color" name="GoBackTextView_content_title_color"/><attr format="dimension" name="GoBackTextView_content_title_size"/><attr format="string" name="GoBackTextView_hint"/><attr format="color" name="GoBackTextView_hint_color"/><attr format="dimension" name="GoBackTextView_hint_size"/><attr format="dimension" name="GoBackTextView_margin"/><attr format="dimension" name="GoBackTextView_margin_left"/><attr format="dimension" name="GoBackTextView_margin_right"/><attr format="boolean" name="GoBackTextView_is_gotext_left"/><attr format="reference" name="GoBackTextView_iv_go_src"/><attr format="boolean" name="GoBackTextView_iv_go_enabled"/></declare-styleable>
+    <declare-styleable name="KLineView"><attr format="dimension" name="KLineView_height"/><attr format="dimension" name="KLineView_width"/><attr format="reference" name="KLineView_gradientLine"/><attr format="boolean" name="KLineView_touchEnabled"/><attr format="color" name="KLineView_rulerNumColor"/><attr format="color" name="KLineView_rulerColor"/><attr format="color" name="KLineView_kLineColor"/><attr format="color" name="KLineView_shadeColor"/><attr format="color" name="KLineView_kLineThickness"/></declare-styleable>
+    <declare-styleable name="MyScrollWindow"><attr format="integer" name="defaultWindow"/></declare-styleable>
+    <declare-styleable name="NumberProgressBar"><attr format="integer" name="progress_current"/><attr format="integer" name="progress_max"/><attr format="color" name="progress_unreached_color"/><attr format="color" name="progress_reached_color"/><attr format="dimension" name="progress_reached_bar_height"/><attr format="dimension" name="progress_unreached_bar_height"/><attr format="dimension" name="progress_text_size"/><attr format="color" name="progress_text_color"/><attr format="dimension" name="progress_text_offset"/><attr format="enum" name="progress_text_visibility"><enum name="visible" value="0"/><enum name="invisible" value="1"/></attr></declare-styleable>
+    <declare-styleable name="PasswordEditText"><attr format="string" name="PasswordEditText_hint"/><attr format="reference" name="PasswordEditText_toggle"/><attr format="reference" name="PasswordEditText_icon"/><attr format="reference" name="PasswordEditText_background"/><attr format="color" name="PasswordEditText_hint_color"/></declare-styleable>
+    <declare-styleable name="ProgressWheel"><attr format="string" name="ProgressWheel_text"/><attr format="color" name="ProgressWheel_textColor"/><attr format="dimension" name="ProgressWheel_textSize"/><attr format="color" name="ProgressWheel_barColor"/><attr format="color" name="ProgressWheel_rimColor"/><attr format="dimension" name="ProgressWheel_rimWidth"/><attr format="dimension" name="ProgressWheel_spinSpeed"/><attr format="integer" name="ProgressWheel_delayMillis"/><attr format="color" name="ProgressWheel_circleColor"/><attr format="dimension" name="ProgressWheel_radius"/><attr format="dimension" name="ProgressWheel_barWidth"/><attr format="dimension" name="ProgressWheel_barLength"/><attr format="color" name="ProgressWheel_contourColor"/><attr format="dimension" name="ProgressWheel_contourSize"/></declare-styleable>
+    <declare-styleable name="PullScrollView"><attr format="reference" name="header"/><attr format="dimension" name="headerHeight"/><attr format="dimension" name="headerVisibleHeight"/></declare-styleable>
+    <declare-styleable name="PullToRefreshListView"><attr format="boolean" name="PullToRefreshListView_HeaderProgressBarEnabled"/><attr format="boolean" name="PullToRefreshListView_HeaderArrowEnabled"/><attr format="boolean" name="PullToRefreshListView_HeaderIconEnabled"/><attr format="boolean" name="PullToRefreshListView_HeaderTimeEnabled"/><attr format="reference|color" name="PullToRefreshListView_HeaderIconSrc"/><attr format="boolean" name="PullToRefreshListView_HeaderVisiblity"/><attr format="dimension" name="PullToRefreshListView_HeaderRealHeight"/><attr format="boolean" name="PullToRefreshListView_FooterProgressBarEnabled"/><attr format="boolean" name="PullToRefreshListView_FooterTextViewEnabled"/><attr format="boolean" name="PullToRefreshListView_FooterVisiblity"/><attr format="dimension" name="PullToRefreshListView_FooterRealHeight"/><attr format="dimension" name="PullToRefreshListView_FooterVisibleHeight"/><attr format="reference|color" name="PullToRefreshListView_RefreshableViewBackground"/><attr format="reference|color" name="PullToRefreshListView_HeaderBackground"/><attr format="reference|color" name="PullToRefreshListView_HeaderTextColor"/><attr format="reference|color" name="PullToRefreshListView_HeaderSubTextColor"/><attr name="PullToRefreshListView_Mode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="PullToRefreshListView_pullDownFromTop" value="0x1"/><flag name="PullToRefreshListView_pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="PullToRefreshListView_ShowIndicator"/><attr format="reference" name="PullToRefreshListView_Drawable"/><attr format="reference" name="PullToRefreshListView_DrawableStart"/><attr format="reference" name="PullToRefreshListView_DrawableEnd"/><attr format="reference|boolean" name="PullToRefreshListView_OverScroll"/><attr format="reference" name="PullToRefreshListView_HeaderTextAppearance"/><attr format="reference" name="PullToRefreshListView_SubHeaderTextAppearance"/><attr name="PullToRefreshListView_AnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ListViewExtrasEnabled"/><attr format="reference|boolean" name="RotateDrawableWhilePulling"/><attr format="reference|color" name="AdapterViewBackground"/><attr format="reference" name="DrawableTop"/><attr format="reference" name="DrawableBottom"/></declare-styleable>
+    <declare-styleable name="ReboundListView"><attr format="boolean" name="ReboundListView_HeaderProgressBarEnabled"/><attr format="boolean" name="ReboundListView_HeaderArrowEnabled"/><attr format="boolean" name="ReboundListView_HeaderIconEnabled"/><attr format="boolean" name="ReboundListView_HeaderTimeEnabled"/><attr format="reference|color" name="ReboundListView_HeaderIconSrc"/><attr format="boolean" name="ReboundListView_FooterProgressBarEnabled"/><attr format="boolean" name="ReboundListView_FooterTextViewEnabled"/><attr format="reference|color" name="ReboundListView_RefreshableViewBackground"/><attr format="reference|color" name="ReboundListView_HeaderBackground"/><attr format="reference|color" name="ReboundListView_HeaderTextColor"/><attr format="reference|color" name="ReboundListView_HeaderSubTextColor"/></declare-styleable>
+    <declare-styleable name="RoundAngleImageView"><attr format="dimension" name="roundWidth"/><attr format="dimension" name="roundHeight"/></declare-styleable>
+    <declare-styleable name="SearchBar"><attr format="string" name="searchbar_hint"/><attr format="color" name="searchbar_hint_text_color"/><attr format="dimension" name="searchbar_edittext_text_size"/><attr format="color" name="searchbar_edittext_text_color"/><attr format="reference" name="searchbar_edittext_background"/><attr format="reference" name="searchbar_logo"/><attr format="reference" name="searchbar_delete_icon"/><attr format="reference" name="searchbar_icon"/></declare-styleable>
+    <declare-styleable name="SlidingTab"><attr format="color" name="bottomBorderColor"/><attr format="dimension" name="bottomBorderHeight"/><attr format="color" name="selectedIndicatorColor"/><attr format="color" name="unselectedIndicatorColor"/><attr format="dimension" name="selectedIndicatorHeight"/><attr format="color" name="tabDividerColor"/><attr format="dimension" name="tabDividerHeight"/><attr format="dimension" name="tabDividerWidth"/><attr format="color" name="tabSeletedTextColor"/><attr format="color" name="tabUnseletedTextColor"/><attr format="dimension" name="tabTextSize"/><attr format="boolean" name="isEquipotent"/></declare-styleable>
+    <declare-styleable name="SwipeShowDeleteListView"><attr format="dimension" name="SwipeShowDeleteListView_right_width"/><attr format="boolean" name="swipeOpenOnLongPress"/><attr format="integer" name="swipeAnimationTime"/><attr format="dimension" name="swipeOffsetLeft"/><attr format="dimension" name="swipeOffsetRight"/><attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/><attr format="reference" name="swipeFrontView"/><attr format="reference" name="swipeBackView"/><attr format="enum" name="swipeMode"><enum name="none" value="0"/><enum name="both" value="1"/><enum name="right" value="2"/><enum name="left" value="3"/></attr><attr format="enum" name="swipeActionLeft"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/><enum name="choice" value="2"/></attr><attr format="enum" name="swipeActionRight"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/><enum name="choice" value="2"/></attr><attr format="reference" name="swipeDrawableChecked"/><attr format="reference" name="swipeDrawableUnchecked"/></declare-styleable>
+    <declare-styleable name="Themes"><attr format="reference" name="numberProgressBarStyle"/></declare-styleable>
+    <declare-styleable name="TopBar4Layout"><attr format="boolean" name="topBar4Layout_leftBtnEabled"/><attr format="boolean" name="topBar4Layout_rightBtnEabled"/><attr format="boolean" name="topBar4Layout_leftBtnShow"/><attr format="boolean" name="topBar4Layout_rightBtnShow"/><attr format="boolean" name="topBar4Layout_ivLeftShow"/><attr format="boolean" name="topBar4Layout_ivRightShow"/><attr format="boolean" name="topBar4Layout_progressBarEnabled"/><attr format="boolean" name="topBar4Layout_progressBarTimeOutEnabled"/><attr format="float" name="topBar4Layout_progressBarTimeOut"/><attr format="boolean" name="topBar4Layout_onlyPBNoRefresh"/><attr format="reference" name="topBar4Layout_progressBarIndeterminateDrawable"/><attr format="reference" name="topBar4Layout_ivLeftSrc"/><attr format="reference" name="topBar4Layout_ivRightSrc"/><attr format="string" name="topBar4Layout_tvLeftText"/><attr format="string" name="topBar4Layout_tvRightText"/><attr format="string" name="topBar4Layout_tvTitleText"/><attr format="color" name="topBar4Layout_textColor"/><attr format="color" name="topBar4Layout_titleColor"/></declare-styleable>
+    <declare-styleable name="WithDelEditText"><attr format="string" name="WithDelEditText_hint"/><attr format="integer" name="WithDelEditText_lines"/><attr format="integer" name="WithDelEditText_maxLines"/><attr format="color" name="WithDelEditText_hint_color"/><attr format="reference" name="WithDelEditText_delete_icon"/><attr format="reference" name="WithDelEditText_icon"/><attr format="reference" name="WithDelEditText_background"/></declare-styleable>
+    <declare-styleable name="WithItemTextView"><attr format="string" name="WithItemTextView_name"/><attr format="string" name="WithItemTextView_content"/><attr format="reference" name="WithItemTextView_content_arrow"/><attr format="color" name="WithItemTextView_name_color"/><attr format="color" name="WithItemTextView_content_color"/><attr format="boolean" name="WithItemTextView_editable"/><attr format="color" name="WithItemTextView_edit_hint_color"/></declare-styleable>
+    <declare-styleable name="WithRatingBarTextView"><attr format="reference" name="WithRatingBarTextView_background"/><attr format="string" name="WithRatingBarTextView_title"/><attr format="dimension" name="WithRatingBarTextView_title_size"/><attr format="color" name="WithRatingBarTextView_title_color"/><attr format="string" name="WithRatingBarTextView_content"/><attr format="dimension" name="WithRatingBarTextView_content_size"/><attr format="color" name="WithRatingBarTextView_content_color"/><attr format="boolean" name="WithRatingBarTextView_is_content_text_left"/><attr format="reference" name="WithRatingBarTextView_ratingbar_progressDrawable"/><attr format="integer" name="WithRatingBarTextView_ratingbar_num"/><attr format="dimension" name="WithRatingBarTextView_margin"/><attr format="dimension" name="WithRatingBarTextView_margin_left"/><attr format="dimension" name="WithRatingBarTextView_margin_right"/></declare-styleable>
+    <declare-styleable name="WithSegmentedControlTextView"><attr format="reference" name="WithSegmentedControlTextView_background"/><attr format="string" name="WithSegmentedControlTextView_title"/><attr format="dimension" name="WithSegmentedControlTextView_title_size"/><attr format="color" name="WithSegmentedControlTextView_title_color"/><attr format="string" name="WithSegmentedControlTextView_content"/><attr format="dimension" name="WithSegmentedControlTextView_content_size"/><attr format="color" name="WithSegmentedControlTextView_content_color"/><attr format="boolean" name="WithSegmentedControlTextView_is_content_text_left"/><attr format="dimension" name="WithSegmentedControlTextView_margin"/><attr format="dimension" name="WithSegmentedControlTextView_margin_left"/><attr format="dimension" name="WithSegmentedControlTextView_margin_right"/></declare-styleable>
+    <declare-styleable name="WithSpinnerTextView"><attr format="reference" name="WithSpinnerTextView_background"/><attr format="string" name="WithSpinnerTextView_title"/><attr format="dimension" name="WithSpinnerTextView_title_size"/><attr format="color" name="WithSpinnerTextView_title_color"/><attr format="string" name="WithSpinnerTextView_content"/><attr format="dimension" name="WithSpinnerTextView_content_size"/><attr format="color" name="WithSpinnerTextView_content_color"/><attr format="boolean" name="WithSpinnerTextView_is_content_text_left"/><attr format="dimension" name="WithSpinnerTextView_margin"/><attr format="dimension" name="WithSpinnerTextView_margin_left"/><attr format="dimension" name="WithSpinnerTextView_margin_right"/></declare-styleable>
+    <declare-styleable name="WithSwitchButtonTextView"><attr format="reference" name="WithSwitchButtonTextView_background"/><attr format="string" name="WithSwitchButtonTextView_title"/><attr format="dimension" name="WithSwitchButtonTextView_title_size"/><attr format="color" name="WithSwitchButtonTextView_title_color"/><attr format="string" name="WithSwitchButtonTextView_content"/><attr format="dimension" name="WithSwitchButtonTextView_content_size"/><attr format="color" name="WithSwitchButtonTextView_content_color"/><attr format="boolean" name="WithSwitchButtonTextView_is_content_text_left"/><attr format="dimension" name="WithSwitchButtonTextView_margin"/><attr format="dimension" name="WithSwitchButtonTextView_margin_left"/><attr format="dimension" name="WithSwitchButtonTextView_margin_right"/></declare-styleable>
+    <declare-styleable name="WithTitleEditText"><attr format="reference" name="WithTitleEditText_background"/><attr format="string" name="WithTitleEditText_title"/><attr format="color" name="WithTitleEditText_title_color"/><attr format="dimension" name="WithTitleEditText_title_size"/><attr format="string" name="WithTitleEditText_hint"/><attr format="reference" name="WithTitleEditText_edittext_background"/><attr format="color" name="WithTitleEditText_edittext_text_color"/><attr format="boolean" name="WithTitleEditText_edittext_singleLine"/><attr format="integer" name="WithTitleEditText_edittext_maxLines"/><attr format="dimension" name="WithTitleEditText_edittext_maxHeight"/><attr name="WithTitleEditText_edittext_numeric"><flag name="integer" value="0x0"/><flag name="signed" value="0x1"/><flag name="decimal" value="0x2"/></attr><attr name="WithTitleEditText_edittext_inputType"><flag name="nomarl" value="0x0"/><flag name="number" value="0x1"/><flag name="phone" value="0x2"/><flag name="datetime" value="0x3"/><flag name="email" value="0x4"/><flag name="password" value="0x5"/></attr><attr format="reference" name="WithTitleEditText_delete_icon"/><attr format="boolean" name="WithTitleEditText_is_left"/><attr format="string" name="WithTitleEditText_suffix_string"/><attr format="reference" name="WithTitleEditText_iv_right_src"/><attr format="dimension" name="WithTitleEditText_margin"/><attr format="dimension" name="WithTitleEditText_margin_left"/><attr format="dimension" name="WithTitleEditText_margin_right"/></declare-styleable>
+    <declare-styleable name="WithTitleTextView"><attr format="reference" name="WithTitleTextView_background"/><attr format="string" name="WithTitleTextView_title"/><attr format="color" name="WithTitleTextView_title_color"/><attr format="dimension" name="WithTitleTextView_title_size"/><attr format="dimension" name="WithTitleTextView_title_margin"/><attr format="dimension" name="WithTitleTextView_title_margin_left"/><attr format="dimension" name="WithTitleTextView_title_margin_right"/><attr format="string" name="WithTitleTextView_content"/><attr format="color" name="WithTitleTextView_content_color"/><attr format="dimension" name="WithTitleTextView_content_size"/><attr format="dimension" name="WithTitleTextView_margin"/><attr format="dimension" name="WithTitleTextView_margin_left"/><attr format="dimension" name="WithTitleTextView_margin_right"/><attr format="boolean" name="WithTitleTextView_is_content_left"/></declare-styleable>
+    <declare-styleable name="WithTwoItemTextView"><attr format="string" name="WithTwoItemTextView_name_1"/><attr format="string" name="WithTwoItemTextView_name_2"/><attr format="string" name="WithTwoItemTextView_content_1"/><attr format="string" name="WithTwoItemTextView_content_2"/><attr format="reference" name="WithTwoItemTextView_content_arrow_1"/><attr format="reference" name="WithTwoItemTextView_content_arrow_2"/><attr format="color" name="WithTwoItemTextView_name_color"/><attr format="color" name="WithTwoItemTextView_content_color"/><attr format="color" name="WithTwoItemTextView_background"/><attr format="reference" name="WithTwoItemTextView_item_background"/></declare-styleable>
+    <declare-styleable name="XRTextView"><attr format="reference" name="XRTextView_background"/><attr format="string" name="XRTextView_title"/><attr format="color" name="XRTextView_title_color"/><attr format="dimension" name="XRTextView_title_size"/><attr format="dimension" name="XRTextView_title_margin"/><attr format="dimension" name="XRTextView_title_margin_left"/><attr format="dimension" name="XRTextView_title_margin_right"/><attr format="string" name="XRTextView_content"/><attr format="dimension" name="XRTextView_content_margin"/><attr format="dimension" name="XRTextView_content_margin_left"/><attr format="dimension" name="XRTextView_content_margin_right"/><attr format="color" name="XRTextView_content_color"/><attr format="dimension" name="XRTextView_content_size"/><attr format="dimension" name="XRTextView_margin"/><attr format="dimension" name="XRTextView_margin_left"/><attr format="dimension" name="XRTextView_margin_right"/><attr format="boolean" name="XRTextView_is_content_left"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="floatingactionbutton_min_significant_scroll">40dp</dimen>
+    <dimen name="floatingactionbutton_mini_shadow_size">6dp</dimen>
+    <dimen name="floatingactionbutton_shadow_size">8dp</dimen>
+    <dimen name="floatingactionbutton_size_mini">40dp</dimen>
+    <dimen name="floatingactionbutton_size_normal">56dp</dimen>
+    <dimen name="header_footer_internal_padding">20dp</dimen>
+    <dimen name="header_footer_left_right_padding">25dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="iv_go">12dp</dimen>
+    <dimen name="list_padding">10dp</dimen>
+    <dimen name="shadow_width">5dp</dimen>
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="weibosdk_dialog_bottom_margin">10dp</dimen>
+    <dimen name="weibosdk_dialog_left_margin">10dp</dimen>
+    <dimen name="weibosdk_dialog_right_margin">10dp</dimen>
+    <dimen name="weibosdk_dialog_top_margin">30dp</dimen>
+    <item name="auto_focus" type="id"/>
+    <item name="btn1" type="id">false</item>
+    <item name="btn2" type="id">false</item>
+    <item name="btnCancel" type="id">false</item>
+    <item name="btnOK" type="id">false</item>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="encode_failed" type="id"/>
+    <item name="encode_succeeded" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="search_book_contents_failed" type="id"/>
+    <item name="search_book_contents_succeeded" type="id"/>
+    <item name="webview" type="id"/>
+    <integer name="num_cols">1</integer>
+    <string name="action_github">Github</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SwipeBackDemo</string>
+    <string name="back">返回</string>
+    <string name="baidu_map_key">9osKthcXoQ0uBlMbPeaWBrQ9</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_confirm">确定</string>
+    <string name="camera">拍照</string>
+    <string name="cancel">取消</string>
+    <string name="cancelDeletions">Cancel deletions</string>
+    <string name="choice">筛选</string>
+    <string name="confirm">确定</string>
+    <string name="confirmDeletions">Confirm deletions</string>
+    <string name="define_FloatingActionButton"/>
+    <string name="delete">删除</string>
+    <string name="deleted">Deleted</string>
+    <string name="extract_visible_bitmap">Extract visible bitmap</string>
+    <string name="finish_activity">Finish Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">请点击输入</string>
+    <string name="init_data"/>
+    <string name="is_exit">确定要退出吗？</string>
+    <string name="is_update">是否更新</string>
+    <string name="key_tracking_mode">key_tracking_mode</string>
+    <string name="library_FloatingActionButton_author">Oleksandr Melnykov</string>
+    <string name="library_FloatingActionButton_authorWebsite">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="library_FloatingActionButton_isOpenSource">true</string>
+    <string name="library_FloatingActionButton_libraryDescription">Android Google+ like floating action button which reacts on the list view scrolling events. Becomes visible when the list view is scrolled up and invisible when scrolled down.</string>
+    <string name="library_FloatingActionButton_libraryName">FloatingActionButton</string>
+    <string name="library_FloatingActionButton_libraryVersion">1.0.0</string>
+    <string name="library_FloatingActionButton_libraryWebsite">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="library_FloatingActionButton_licenseId">mit</string>
+    <string name="library_FloatingActionButton_repositoryLink">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="load_error">加载失败</string>
+    <string name="menu_lock">Lock</string>
+    <string name="menu_matrix_capture">Capture Display Matrix</string>
+    <string name="menu_matrix_restore">Restore Display Matrix</string>
+    <string name="menu_scale_center">Change to CENTER</string>
+    <string name="menu_scale_center_crop">Change to CENTER_CROP</string>
+    <string name="menu_scale_center_inside">Change to CENTER_INSIDE</string>
+    <string name="menu_scale_fit_center">Change to FIT_CENTER</string>
+    <string name="menu_scale_fit_end">Change to FIT_END</string>
+    <string name="menu_scale_fit_start">Change to FIT_START</string>
+    <string name="menu_scale_fit_xy">Change to FIT_XY</string>
+    <string name="menu_unlock">Unlock</string>
+    <string name="menu_zoom_disable">Disable Zoom</string>
+    <string name="menu_zoom_enable">Enable Zoom</string>
+    <string name="menu_zoom_random">Set scale to random value</string>
+    <string name="menu_zoom_random_animate">Animate scale to random value</string>
+    <string name="msg_exit">确定退出吗？</string>
+    <string name="net_error">网络异常，请检查你的网络</string>
+    <string name="net_outtime">请求超时，请选择较好的网络重试</string>
+    <string name="no_data">没有获取到数据</string>
+    <string name="no_more">没有更多了</string>
+    <string name="no_network">没有网络</string>
+    <string name="open_network">打开网络</string>
+    <string name="pick">从相册选择</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">Pull to load more…</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">Release to load more…</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="pulltorefresh_listview_footer_hint_normal">查看更多</string>
+    <string name="pulltorefresh_listview_footer_hint_ready">松开加载更多</string>
+    <string name="pulltorefresh_listview_header_hint_loading">正在加载</string>
+    <string name="pulltorefresh_listview_header_hint_normal">下拉刷新</string>
+    <string name="pulltorefresh_listview_header_hint_ready">松开以刷新</string>
+    <string name="pulltorefresh_listview_header_last_time">上次更新时间：</string>
+    <string name="rebound_listview_footer_hint_normal">查看更多</string>
+    <string name="rebound_listview_footer_hint_ready">松开加载更多</string>
+    <string name="rebound_listview_header_hint_loading">正在加载</string>
+    <string name="rebound_listview_header_hint_normal">@string/init_data</string>
+    <string name="rebound_listview_header_hint_ready">@string/init_data</string>
+    <string name="search">搜索</string>
+    <string name="start_activity">Start new activity!</string>
+    <string name="swipeToDeleteListView">SwipeToDeleteListView</string>
+    <string name="swipeToDeleteListViewDemo">SwipeToDeleteListView demo</string>
+    <string name="tips_exit">再按一次，就退出咯~</string>
+    <string name="tracking_mode_all">All</string>
+    <string name="tracking_mode_bottom">Bottom</string>
+    <string name="tracking_mode_left">Left</string>
+    <string name="tracking_mode_right">Right</string>
+    <string name="update">更新</string>
+    <string name="withConfirm">With confirmation</string>
+    <string name="with_del_edittext_hint">请点击输入</string>
+    <string name="withoutConfirm">Without confirmation</string>
+    <style name="ActionSheet" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowAnimationStyle">@style/Anim.Window.BottomInBottomOut</item>
+    </style>
+    <style mce_bogus="1" name="Anim.Window.BottomInBottomOut" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style mce_bogus="1" name="Anim.Window.Dialog" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_anim</item>
+    </style>
+    <style name="Anim.Window.HalfBottomInBottomOut" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/half_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/half_bottom_out</item>
+    </style>
+    <style mce_bogus="1" name="Anim.Window.HalfTopInTopOut" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/half_top_in</item>
+        <item name="android:windowExitAnimation">@anim/half_top_out</item>
+    </style>
+    <style name="Anim.Window.LeftInLeftOut" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_left_in</item>
+        <item name="android:windowExitAnimation">@anim/push_left_out</item>
+    </style>
+    <style name="Anim.Window.LeftInRightOut" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_left_in</item>
+        <item name="android:windowExitAnimation">@anim/push_right_out</item>
+    </style>
+    <style name="Anim.Window.RightInLeftOut" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_right_in</item>
+        <item name="android:windowExitAnimation">@anim/push_left_out</item>
+    </style>
+    <style name="Anim.Window.RightInRightOut" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_right_in</item>
+        <item name="android:windowExitAnimation">@anim/push_right_out</item>
+    </style>
+    <style mce_bogus="1" name="Anim.Window.TopInTopOut" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/push_top_in</item>
+        <item name="android:windowExitAnimation">@anim/push_top_out</item>
+    </style>
+    <style name="Animation.Activity.Default" parent="@android:style/Animation.Activity">
+
+        <!-- 第一个表示新的activity创建进入效果 -->
+        <item name="@android:activityOpenEnterAnimation">@null</item>
+        <!-- 第2个表示activity还没有finish()下退出效果 -->
+        <item name="@android:activityOpenExitAnimation">@null</item>
+        <!-- 第3个表示上一个activity返回进入效果 -->
+        <item name="@android:activityCloseEnterAnimation">@null</item>
+        <!-- 第4个表示的是activity finish()之后退出效果 -->
+        <item name="@android:activityCloseExitAnimation">@null</item>
+
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="Animation.Activity.Default.Translucent.Window" parent="@android:style/Animation.Translucent">
+        <item name="android:windowEnterAnimation">@anim/zoom_in</item>
+        <item name="android:windowExitAnimation">@anim/zoom_out</item>
+    </style>
+    <style name="Animation.Activity.LeftInLeftOut" parent="@android:style/Animation.Activity">
+
+        <!-- 第一个表示新的activity创建进入效果 -->
+        <item name="@android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <!-- 第2个表示activity还没有finish()下退出效果 -->
+        <item name="@android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <!-- 第3个表示上一个activity返回进入效果 -->
+        <item name="@android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <!-- 第4个表示的是activity finish()之后退出效果 -->
+        <item name="@android:activityCloseExitAnimation">@anim/slide_out_right</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="Animation.Activity.Main" parent="@android:style/Animation.Activity">
+
+        <!-- 第一个表示新的activity创建进入效果 -->
+        <item name="@android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <!-- 第2个表示activity还没有finish()下退出效果 -->
+        <item name="@android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <!-- 第3个表示上一个activity返回进入效果 -->
+        <item name="@android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <!-- 第4个表示的是activity finish()之后退出效果 -->
+        <item name="@android:activityCloseExitAnimation">@anim/slide_out_right</item>
+
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="Animation.Activity.RightInRightOut" parent="@android:style/Animation.Activity">
+
+        <!-- 第一个表示新的activity创建进入效果 -->
+        <item name="@android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <!-- 第2个表示activity还没有finish()下退出效果 -->
+        <item name="@android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <!-- 第3个表示上一个activity返回进入效果 -->
+        <item name="@android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <!-- 第4个表示的是activity finish()之后退出效果 -->
+        <item name="@android:activityCloseExitAnimation">@anim/slide_out_right</item>
+
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="Animation.Activity.RightInRightOut.Translucent.Window" parent="@android:style/Animation.Translucent">
+        <item name="android:windowEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_right</item>
+    </style>
+    <style name="Animation.Activity.RightInRightOut.Window" parent="@android:style/Animation.Activity">
+
+        <!-- 第1个表示新的activity创建进入效果 -->
+        <!--<item name="@android:activityOpenEnterAnimation">@anim/slide_in_right</item>-->
+        <!-- 第2个表示activity还没有finish()下退出效果 -->
+        <!--<item name="@android:activityOpenExitAnimation">@anim/slide_out_left</item>-->
+        <!-- 第3个表示上一个activity返回进入效果 -->
+        <!--<item name="@android:activityCloseEnterAnimation">@anim/slide_in_left</item>-->
+        <!-- 第4个表示的是activity finish()之后退出效果 -->
+        <!--<item name="@android:activityCloseExitAnimation">@anim/slide_out_right</item>-->
+
+        <item name="android:windowEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_right</item>
+
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="Animation.Activity.Splash" parent="@android:style/Animation.Activity">
+
+        <!-- 第一个表示新的activity创建进入效果 -->
+        <item name="@android:activityOpenEnterAnimation">@null</item>
+        <!-- 第2个表示activity还没有finish()下退出效果 -->
+        <item name="@android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <!-- 第3个表示上一个activity返回进入效果 -->
+        <item name="@android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <!-- 第4个表示的是activity finish()之后退出效果 -->
+        <item name="@android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="Animation.DialogActivity.LeftInLeftOut" parent="@android:style/Animation.Activity">
+
+        <!-- 第一个表示新的activity创建进入效果 -->
+        <item name="@android:activityOpenEnterAnimation">@anim/push_left_in</item>
+        <!-- 第2个表示activity还没有finish()下退出效果 -->
+        <item name="@android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <!-- 第3个表示上一个activity返回进入效果 -->
+        <item name="@android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <!-- 第4个表示的是activity finish()之后退出效果 -->
+        <item name="@android:activityCloseExitAnimation">@anim/push_left_out</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="Animation.DialogActivity.RightInRightOut" parent="@android:style/Animation.Activity">
+
+        <!-- 第一个表示新的activity创建进入效果 -->
+        <item name="@android:activityOpenEnterAnimation">@anim/push_right_in</item>
+        <!-- 第2个表示activity还没有finish()下退出效果 -->
+        <item name="@android:activityOpenExitAnimation">@anim/slide_out_left</item>
+        <!-- 第3个表示上一个activity返回进入效果 -->
+        <item name="@android:activityCloseEnterAnimation">@anim/slide_in_left</item>
+        <!-- 第4个表示的是activity finish()之后退出效果 -->
+        <item name="@android:activityCloseExitAnimation">@anim/push_right_out</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Black">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="CustomProgressStyle" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:minWidth">18dip</item>
+        <item name="android:maxWidth">18dip</item>
+        <item name="android:minHeight">18dip</item>
+        <item name="android:maxHeight">18dip</item>
+    </style>
+    <style name="NumberProgressBar_Default">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+
+        <item name="progress_max">100</item>
+        <item name="progress_current">0</item>
+
+        <item name="progress_unreached_color">#CCCCCC</item>
+        <item name="progress_reached_color">#3498DB</item>
+
+        <item name="progress_text_size">10sp</item>
+        <item name="progress_text_color">#3498DB</item>
+
+        <item name="progress_reached_bar_height">1.5dp</item>
+        <item name="progress_unreached_bar_height">0.75dp</item>
+    </style>
+    <style name="RadioButton">
+        <item name="android:textColor">@drawable/button_text_color</item>
+        <item name="android:minHeight">33dp</item>
+        <item name="android:minWidth">70dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:button">@null</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+    </style>
+    <style name="Theme.Activity.Main" parent="AppBaseTheme">
+        <item name="android:windowAnimationStyle">@style/Animation.Activity.Main</item>
+    </style>
+    <style name="Theme.Activity.RightInRightOut" parent="AppBaseTheme">
+        <item name="android:windowAnimationStyle">@style/Animation.Activity.RightInRightOut</item>
+    </style>
+    <style name="Theme.Dialog.AppCompat.BottomInBottomOut" parent="Theme.AppCompat.Light.Dialog">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowAnimationStyle">@style/Anim.Window.BottomInBottomOut</item>
+
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.Dialog.AppCompat.LeftInRightOut" parent="Theme.AppCompat.Light.Dialog">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowAnimationStyle">@style/Anim.Window.LeftInRightOut</item>
+
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.Dialog.BottomInBottomOut" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Anim.Window.BottomInBottomOut</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.Dialog.ContentOverlay" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Theme.Dialog.Default" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.Dialog.HalfBottomInBottomOut" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Anim.Window.HalfBottomInBottomOut</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.Dialog.HalfTopDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Anim.Window.HalfTopInTopOut</item>
+
+        <item name="android:windowEnterAnimation">@anim/half_top_in</item>
+        <item name="android:windowExitAnimation">@anim/half_bottom_out</item>
+
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:gravity">top</item>
+    </style>
+    <style name="Theme.Dialog.LeftInLeftOut" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Anim.Window.LeftInLeftOut</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.Dialog.LeftInRightOut" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Anim.Window.LeftInRightOut</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.Dialog.LoadingDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.Dialog.RightInRightOut" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Anim.Window.RightInRightOut</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.Dialog.TopDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Anim.Window.TopInTopOut</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:gravity">top</item>
+    </style>
+    <style name="Theme.Dialog.Transparency" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Theme.Dialog.Transparency.BottomInBottomOut" parent="Theme.Dialog.Transparency">
+        <item name="android:windowAnimationStyle">@style/Anim.Window.BottomInBottomOut</item>
+    </style>
+    <style name="Theme.Dialog.Transparent.Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">false</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.DialogActivity.LeftInLeftOut" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Animation.DialogActivity.LeftInLeftOut
+        </item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="Theme.DialogActivity.RightInRightOut" parent="@android:style/Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/Animation.DialogActivity.RightInRightOut
+        </item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="ratingBarStyle" parent="@android:style/Widget.RatingBar">
+
+        <item name="android:progressDrawable">@drawable/ratingbar_drawable</item>
+
+        <!-- 这里的大小需要跟实际图片的大小一致才不会显示不全或者拉伸 -->
+        <item name="android:minHeight">30px</item>
+        <item name="android:maxHeight">30px</item>
+
+    </style>
+</resources>

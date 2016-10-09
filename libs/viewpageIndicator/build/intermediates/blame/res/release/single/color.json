@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/viewpageIndicator/build/intermediates/res/merged/release/color/vpi__light_theme.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/viewpageIndicator/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/viewpageIndicator/build/intermediates/res/merged/release/color/vpi__dark_theme.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/viewpageIndicator/res/color/vpi__dark_theme.xml"
+    }
+]

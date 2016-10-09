@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ImageLib/build/intermediates/res/merged/debug/menu/menu_image_looker.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/menu/menu_image_looker.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ImageLib/build/intermediates/res/merged/debug/menu/menu_pic_select.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/menu/menu_pic_select.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ImageLib/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/menu/activity_main.xml"
+    }
+]

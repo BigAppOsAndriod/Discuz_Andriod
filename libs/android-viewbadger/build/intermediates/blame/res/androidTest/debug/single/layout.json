@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/android-viewbadger/build/intermediates/res/merged/androidTest/debug/layout/tests.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/android-viewbadger/build/intermediates/bundles/debug/res/layout/tests.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/android-viewbadger/build/intermediates/res/merged/androidTest/debug/layout/demos.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/android-viewbadger/build/intermediates/bundles/debug/res/layout/demos.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/android-viewbadger/build/intermediates/res/merged/androidTest/debug/layout/main.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/android-viewbadger/build/intermediates/bundles/debug/res/layout/main.xml"
+    }
+]

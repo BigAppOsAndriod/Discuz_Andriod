@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_fb_btn_corners_bg_pre.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_fb_btn_corners_bg_pre.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_fb_btn_selector.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_fb_btn_selector.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_dialog_btn_back.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_dialog_btn_back.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_fb_btn_corners_bg_nor.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_fb_btn_corners_bg_nor.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_fb_chat_from_selector.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_fb_chat_from_selector.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_up_check_selector.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_up_check_selector.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_fb_chat_time_bg.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_fb_chat_time_bg.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_fb_chat_to_selector.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_fb_chat_to_selector.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable/analysissdk_fb_et_bg_selector.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable/analysissdk_fb_et_bg_selector.xml"
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_sohumicroblog.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_sohumicroblog.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_sinaweibo.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_sinaweibo.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_qzone.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_qzone.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_neteasemicroblog.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_neteasemicroblog.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_renren.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_renren.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_platform_checked_disabled.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_platform_checked_disabled.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/btn_back_nor.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/btn_back_nor.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_laiwangmoments.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_laiwangmoments.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_pocket.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_pocket.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_whatsapp.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_whatsapp.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_evernote.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_evernote.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_twitter.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_twitter.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_email.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_email.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_instagram.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_instagram.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_evernote_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_evernote_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_kaixin.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_kaixin.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_facebook.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_facebook.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_youdao.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_youdao.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/auth_title_back.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/auth_title_back.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_pocket.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_pocket.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_foursquare.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_foursquare.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ssdk_logo.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ssdk_logo.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_neteasemicroblog_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_neteasemicroblog_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_wechat.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_wechat.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_googleplus.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_googleplus.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/auth_follow_cb_unc.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/auth_follow_cb_unc.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_sohumicroblog_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_sohumicroblog_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_mingdao.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_mingdao.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_douban_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_douban_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_laiwangmoments.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_laiwangmoments.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_renren.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_renren.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_qzone.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_qzone.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_tencentweibo_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_tencentweibo_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/pin.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/pin.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_facebookmessenger.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_facebookmessenger.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ssdk_title_div.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ssdk_title_div.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_dropbox.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_dropbox.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_wechatmoments.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_wechatmoments.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_flickr.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_flickr.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_pinterest.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_pinterest.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_linkedin_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_linkedin_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_bluetooth.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_bluetooth.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_tencentweibo.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_tencentweibo.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_yixinmoments.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_yixinmoments.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_pocket_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_pocket_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_kakaostory_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_kakaostory_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/img_cancel.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/img_cancel.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_yixinmoments_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_yixinmoments_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_instapaper.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_instapaper.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_facebookmessenger_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_facebookmessenger_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_bluetooth.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_bluetooth.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_wechatfavorite_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_wechatfavorite_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_youdao_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_youdao_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_wechatmoments_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_wechatmoments_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_flickr_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_flickr_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_instapaper_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_instapaper_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_dropbox.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_dropbox.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_baidutieba_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_baidutieba_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_pinterest.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_pinterest.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_pinterest_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_pinterest_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_shortmessage.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_shortmessage.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_sohusuishenkan.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_kakaostory.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_kakaostory.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_foursquare_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_foursquare_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_dropbox_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_dropbox_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_googleplus.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_googleplus.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_vkontakte_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_vkontakte_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_instagram.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_instagram.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_douban.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_douban.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_bluetooth_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_bluetooth_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_editpage_divider.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_editpage_divider.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_editpage_bg.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_editpage_bg.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_qq.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_qq.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_platform_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_platform_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_tumblr.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_tumblr.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_line.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_line.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_facebook_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_facebook_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_whatsapp.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_whatsapp.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_back.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_back.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_wechatfavorite.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_wechatfavorite.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_vkontakte.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_vkontakte.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_facebook.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_facebook.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_editpage_image_bg.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_editpage_image_bg.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_flickr.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_flickr.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_laiwangmoments_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_laiwangmoments_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_line_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_line_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_yixin.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_yixin.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_editpage_image_remove.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_editpage_image_remove.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_mingdao.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_mingdao.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_sohusuishenkan.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_sohusuishenkan.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_qq_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_qq_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_qq.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_qq.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_tumblr.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_tumblr.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_baidutieba.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_baidutieba.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_kakaostory.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_kakaostory.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ssdk_auth_title_back.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_kaixin_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_kaixin_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_actionbar_back_btn.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_actionbar_back_btn.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_sohusuishenkan_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_sohusuishenkan_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_wechat.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_wechat.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_instagram_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_instagram_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_sinaweibo.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_sinaweibo.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_evernote.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_evernote.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_googleplus_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_googleplus_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_shadow.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_shadow.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_wechatfavorite.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_wechatfavorite.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/blue_point.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/blue_point.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_yixin_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_yixin_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ssdk_oks_shake_to_share_back.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ssdk_oks_shake_to_share_back.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_shortmessage_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_shortmessage_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_kakaotalk_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_kakaotalk_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ssdk_back_arr.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ssdk_back_arr.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/edittext_back.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/edittext_back.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_qzone_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_qzone_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_wechatmoments.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_wechatmoments.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_twitter.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_twitter.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/light_blue_point.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/light_blue_point.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_tencentweibo.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_tencentweibo.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_kaixin.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_kaixin.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_email.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_email.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_wechat_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_wechat_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_kakaotalk.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_kakaotalk.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_yixin.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_yixin.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_douban.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_douban.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_sinaweibo_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_sinaweibo_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/auth_follow_cb_chd.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/auth_follow_cb_chd.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_line.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_line.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_linkedin.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_linkedin.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_whatsapp_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_whatsapp_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_vkontakte.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_vkontakte.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_renren_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_renren_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_editpage_close.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_editpage_close.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ssdk_oks_yaoyiyao.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ssdk_oks_yaoyiyao.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_youdao.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_youdao.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_laiwang.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_laiwang.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_shortmessage.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_shortmessage.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_email_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_email_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_mingdao_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_mingdao_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_instapaper.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_instapaper.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_tumblr_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_tumblr_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_yixinmoments.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_yixinmoments.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_twitter_checked.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_twitter_checked.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_facebookmessenger.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_facebookmessenger.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_actionbar_ok_btn.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_actionbar_ok_btn.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_linkedin.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_linkedin.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/logo_kakaotalk.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/logo_kakaotalk.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/skyblue_logo_foursquare.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/skyblue_logo_foursquare.png"
+    }
+]

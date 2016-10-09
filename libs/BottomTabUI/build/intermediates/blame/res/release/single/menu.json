@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/BottomTabUI/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/BottomTabUI/res/menu/main.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/BottomTabUI/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/BottomTabUI/res/menu/menu_main.xml"
+    }
+]

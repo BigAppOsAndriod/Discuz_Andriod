@@ -1,0 +1,511 @@
+[
+    {
+        "outputFile": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/values-v8/values-v8.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3716,
+                        "endLine": 97,
+                        "endColumn": 12,
+                        "endOffset": 4186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3446,
+                        "endLine": 85,
+                        "endColumn": 12,
+                        "endOffset": 3680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1006
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3174,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 3411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1011,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1245
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 4232,
+                        "endLine": 103,
+                        "endColumn": 12,
+                        "endOffset": 4466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1250,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1955
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 1900,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1960,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2125
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2970,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 3135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2130,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2767
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1257,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 1894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2772,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 2792,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 2963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 3323
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4516,
+                        "endLine": 111,
+                        "endColumn": 12,
+                        "endOffset": 4891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3328,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 3625
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3630,
+                    "endLine": 74,
+                    "endColumn": 12,
+                    "endOffset": 3927
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3932,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 4081
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/styles_tab.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2081,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 2230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 4086,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1037,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 4305,
+                    "endLine": 83,
+                    "endColumn": 12,
+                    "endOffset": 4382
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4387,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 4562
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2611,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 2786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4567,
+                    "endLine": 102,
+                    "endColumn": 12,
+                    "endOffset": 5362
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/styles_tab.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 660,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 5367,
+                    "endLine": 115,
+                    "endColumn": 12,
+                    "endOffset": 6080
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_pure_android.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 218,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 6085,
+                    "endLine": 125,
+                    "endColumn": 12,
+                    "endOffset": 6683
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/styles_tab.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3021,
+                        "endLine": 76,
+                        "endColumn": 12,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 6688,
+                    "endLine": 128,
+                    "endColumn": 12,
+                    "endOffset": 6882
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_pure_android.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6887,
+                    "endLine": 144,
+                    "endColumn": 12,
+                    "endOffset": 7663
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/styles_tab.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2239,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 3015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 7668,
+                    "endLine": 154,
+                    "endColumn": 12,
+                    "endOffset": 8282
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/styles_tab.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1461,
+                        "endLine": 41,
+                        "endColumn": 12,
+                        "endOffset": 2075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 8287,
+                    "endLine": 157,
+                    "endColumn": 12,
+                    "endOffset": 8442
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 8447,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 8592
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/styles_tab.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 654
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8597,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 8767
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/values-v8/theme_base.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4897,
+                        "endLine": 116,
+                        "endColumn": 12,
+                        "endOffset": 5067
+                    }
+                }
+            }
+        ]
+    }
+]

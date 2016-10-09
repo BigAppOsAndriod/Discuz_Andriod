@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blurred_imageview_list_content">
+        <item> "Lorem ipsum dolor sit amet, </item>
+        <item>consectetur adipiscing elit. Sed rutrum, </item>
+        <item>ligula eu fringilla condimentum, </item>
+        <item>lorem augue varius odio, vel sagittis neque nibh porttitor dui. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Duis a est ultricies, accumsan mi a, </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>In lobortis, sem vel rhoncus hendrerit, odio diam rutrum ipsum, ut varius lorem dui at mauris. </item>
+        <item>Vestibulum lobortis et quam non convallis. Phasellus viverra porta nisl, eu luctus erat tincidunt et. </item>
+        <item>Maecenas ac lorem dapibus, dictum turpis quis, blandit mi." </item>
+    </string-array>
+    <declare-styleable name="CircleImageView"><attr format="color" name="solid_color"/><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="border_overlay"/><attr format="dimension" name="border_crop"/></declare-styleable>
+    <declare-styleable name="GifTextureView"><attr format="reference|string" name="gifSource"/><attr format="boolean" name="isOpaque"/></declare-styleable>
+    <declare-styleable name="GifView"><attr format="boolean" name="freezesAnimation"/></declare-styleable>
+    <declare-styleable name="RoundProgressBar"><attr format="color" name="RoundProgressBar_roundColor"/><attr format="color" name="RoundProgressBar_roundProgressColor"/><attr format="dimension" name="RoundProgressBar_roundWidth"/><attr format="color" name="RoundProgressBar_textColor"/><attr format="dimension" name="RoundProgressBar_textSize"/><attr format="integer" name="RoundProgressBar_max"/><attr format="boolean" name="RoundProgressBar_textIsDisplayable"/><attr name="RoundProgressBar_style"><enum name="STROKE" value="0"/><enum name="FILL" value="1"/></attr></declare-styleable>
+    <declare-styleable name="RoundedImageView"><attr format="dimension" name="riv_corner_radius"/><attr format="dimension" name="riv_corner_radius_top_left"/><attr format="dimension" name="riv_corner_radius_top_right"/><attr format="dimension" name="riv_corner_radius_bottom_left"/><attr format="dimension" name="riv_corner_radius_bottom_right"/><attr format="dimension" name="riv_border_width"/><attr format="color" name="riv_border_color"/><attr format="boolean" name="riv_mutate_background"/><attr format="boolean" name="riv_oval"/><attr name="android:scaleType"/><attr name="riv_tile_mode"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_x"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_y"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ImageLib</string>
+    <string name="complete">完成</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="load_failed">加载失败</string>
+    <string name="save">保存</string>
+    <string name="save_failed">保存失败</string>
+    <string name="save_successed">保存成功</string>
+    <string name="wait_a_moment">正在加载,请稍等</string>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- <item name="actionSheetStyle">@style/ActionSheetStyleIOS6</item> -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

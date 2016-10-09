@@ -1,0 +1,1685 @@
+[
+    {
+        "outputFile": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endColumn": 87,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 87,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 40,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 40,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 37,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 37,
+                        "endOffset": 261
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 37,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 266,
+                        "endColumn": 37,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 43,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 43,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 36,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 36,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 41,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 41,
+                        "endOffset": 422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 45,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 45,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 64,
+                    "endOffset": 533
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 473,
+                        "endColumn": 64,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 538,
+                    "endColumn": 37,
+                    "endOffset": 571
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 538,
+                        "endColumn": 37,
+                        "endOffset": 571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 576,
+                    "endColumn": 41,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 576,
+                        "endColumn": 41,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 49,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 49,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 97,
+                    "endOffset": 761
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 668,
+                        "endColumn": 97,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 766,
+                    "endColumn": 46,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 46,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 47,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endColumn": 47,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 98,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 98,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 78,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 960,
+                        "endColumn": 78,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endLine": 85,
+                    "endColumn": 9,
+                    "endOffset": 2914
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1039,
+                        "endLine": 85,
+                        "endColumn": 9,
+                        "endOffset": 2914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2919,
+                    "endColumn": 49,
+                    "endOffset": 2964
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 2919,
+                        "endColumn": 49,
+                        "endOffset": 2964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2969,
+                    "endColumn": 47,
+                    "endOffset": 3012
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 2969,
+                        "endColumn": 47,
+                        "endOffset": 3012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3017,
+                    "endColumn": 47,
+                    "endOffset": 3060
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 3017,
+                        "endColumn": 47,
+                        "endOffset": 3060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3065,
+                    "endColumn": 52,
+                    "endOffset": 3113
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 3065,
+                        "endColumn": 52,
+                        "endOffset": 3113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 3118,
+                    "endColumn": 45,
+                    "endOffset": 3159
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 3118,
+                        "endColumn": 45,
+                        "endOffset": 3159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 3164,
+                    "endColumn": 38,
+                    "endOffset": 3198
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 3164,
+                        "endColumn": 38,
+                        "endOffset": 3198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 3203,
+                    "endColumn": 49,
+                    "endOffset": 3248
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 3203,
+                        "endColumn": 49,
+                        "endOffset": 3248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 3253,
+                    "endColumn": 99,
+                    "endOffset": 3348
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3253,
+                        "endColumn": 99,
+                        "endOffset": 3348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 3353,
+                    "endColumn": 47,
+                    "endOffset": 3396
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 3353,
+                        "endColumn": 47,
+                        "endOffset": 3396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3401,
+                    "endColumn": 96,
+                    "endOffset": 3493
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 3401,
+                        "endColumn": 96,
+                        "endOffset": 3493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 3498,
+                    "endColumn": 38,
+                    "endOffset": 3532
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 3498,
+                        "endColumn": 38,
+                        "endOffset": 3532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 3537,
+                    "endColumn": 80,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 3537,
+                        "endColumn": 80,
+                        "endOffset": 3613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 47,
+                    "endOffset": 3661
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 3618,
+                        "endColumn": 47,
+                        "endOffset": 3661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3666,
+                    "endColumn": 37,
+                    "endOffset": 3699
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 3666,
+                        "endColumn": 37,
+                        "endOffset": 3699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3704,
+                    "endColumn": 81,
+                    "endOffset": 3781
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 3704,
+                        "endColumn": 81,
+                        "endOffset": 3781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3786,
+                    "endColumn": 39,
+                    "endOffset": 3821
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 3786,
+                        "endColumn": 39,
+                        "endOffset": 3821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3826,
+                    "endColumn": 46,
+                    "endOffset": 3868
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 3826,
+                        "endColumn": 46,
+                        "endOffset": 3868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3873,
+                    "endColumn": 38,
+                    "endOffset": 3907
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 3873,
+                        "endColumn": 38,
+                        "endOffset": 3907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3912,
+                    "endColumn": 54,
+                    "endOffset": 3962
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 3912,
+                        "endColumn": 54,
+                        "endOffset": 3962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3967,
+                    "endColumn": 44,
+                    "endOffset": 4007
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 3967,
+                        "endColumn": 44,
+                        "endOffset": 4007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4012,
+                    "endColumn": 49,
+                    "endOffset": 4057
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4012,
+                        "endColumn": 49,
+                        "endOffset": 4057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4062,
+                    "endColumn": 47,
+                    "endOffset": 4105
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4062,
+                        "endColumn": 47,
+                        "endOffset": 4105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4110,
+                    "endColumn": 98,
+                    "endOffset": 4204
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4110,
+                        "endColumn": 98,
+                        "endOffset": 4204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4209,
+                    "endColumn": 41,
+                    "endOffset": 4246
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4209,
+                        "endColumn": 41,
+                        "endOffset": 4246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4251,
+                    "endColumn": 48,
+                    "endOffset": 4295
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4251,
+                        "endColumn": 48,
+                        "endOffset": 4295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4300,
+                    "endColumn": 33,
+                    "endOffset": 4329
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4300,
+                        "endColumn": 33,
+                        "endOffset": 4329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4334,
+                    "endColumn": 78,
+                    "endOffset": 4408
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4334,
+                        "endColumn": 78,
+                        "endOffset": 4408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4413,
+                    "endColumn": 38,
+                    "endOffset": 4447
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4413,
+                        "endColumn": 38,
+                        "endOffset": 4447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4452,
+                    "endColumn": 43,
+                    "endOffset": 4491
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4452,
+                        "endColumn": 43,
+                        "endOffset": 4491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4496,
+                    "endColumn": 51,
+                    "endOffset": 4543
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4496,
+                        "endColumn": 51,
+                        "endOffset": 4543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4548,
+                    "endColumn": 38,
+                    "endOffset": 4582
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4548,
+                        "endColumn": 38,
+                        "endOffset": 4582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4587,
+                    "endColumn": 51,
+                    "endOffset": 4634
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4587,
+                        "endColumn": 51,
+                        "endOffset": 4634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4639,
+                    "endColumn": 62,
+                    "endOffset": 4697
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4639,
+                        "endColumn": 62,
+                        "endOffset": 4697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4702,
+                    "endColumn": 45,
+                    "endOffset": 4743
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 4702,
+                        "endColumn": 45,
+                        "endOffset": 4743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4748,
+                    "endColumn": 36,
+                    "endOffset": 4780
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 4748,
+                        "endColumn": 36,
+                        "endOffset": 4780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 4785,
+                    "endColumn": 48,
+                    "endOffset": 4829
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 4785,
+                        "endColumn": 48,
+                        "endOffset": 4829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 4834,
+                    "endColumn": 48,
+                    "endOffset": 4878
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 4834,
+                        "endColumn": 48,
+                        "endOffset": 4878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4883,
+                    "endColumn": 45,
+                    "endOffset": 4924
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 4883,
+                        "endColumn": 45,
+                        "endOffset": 4924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 4929,
+                    "endColumn": 40,
+                    "endOffset": 4965
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 4929,
+                        "endColumn": 40,
+                        "endOffset": 4965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4970,
+                    "endColumn": 55,
+                    "endOffset": 5021
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 4970,
+                        "endColumn": 55,
+                        "endOffset": 5021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5026,
+                    "endColumn": 50,
+                    "endOffset": 5072
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5026,
+                        "endColumn": 50,
+                        "endOffset": 5072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5077,
+                    "endColumn": 45,
+                    "endOffset": 5118
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5077,
+                        "endColumn": 45,
+                        "endOffset": 5118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5123,
+                    "endColumn": 50,
+                    "endOffset": 5169
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 5123,
+                        "endColumn": 50,
+                        "endOffset": 5169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5174,
+                    "endColumn": 58,
+                    "endOffset": 5228
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5174,
+                        "endColumn": 58,
+                        "endOffset": 5228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5233,
+                    "endColumn": 47,
+                    "endOffset": 5276
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5233,
+                        "endColumn": 47,
+                        "endOffset": 5276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5281,
+                    "endColumn": 43,
+                    "endOffset": 5320
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 5281,
+                        "endColumn": 43,
+                        "endOffset": 5320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5325,
+                    "endColumn": 42,
+                    "endOffset": 5363
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5325,
+                        "endColumn": 42,
+                        "endOffset": 5363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5368,
+                    "endColumn": 46,
+                    "endOffset": 5410
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5368,
+                        "endColumn": 46,
+                        "endOffset": 5410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5415,
+                    "endColumn": 48,
+                    "endOffset": 5459
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5415,
+                        "endColumn": 48,
+                        "endOffset": 5459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5464,
+                    "endColumn": 45,
+                    "endOffset": 5505
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5464,
+                        "endColumn": 45,
+                        "endOffset": 5505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5510,
+                    "endColumn": 41,
+                    "endOffset": 5547
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 5510,
+                        "endColumn": 41,
+                        "endOffset": 5547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 5552,
+                    "endColumn": 43,
+                    "endOffset": 5591
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 5552,
+                        "endColumn": 43,
+                        "endOffset": 5591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 5596,
+                    "endColumn": 54,
+                    "endOffset": 5646
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 5596,
+                        "endColumn": 54,
+                        "endOffset": 5646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 5651,
+                    "endColumn": 40,
+                    "endOffset": 5687
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 5651,
+                        "endColumn": 40,
+                        "endOffset": 5687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5692,
+                    "endColumn": 54,
+                    "endOffset": 5742
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 5692,
+                        "endColumn": 54,
+                        "endOffset": 5742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 5747,
+                    "endColumn": 39,
+                    "endOffset": 5782
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 5747,
+                        "endColumn": 39,
+                        "endOffset": 5782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 5787,
+                    "endColumn": 81,
+                    "endOffset": 5864
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 5787,
+                        "endColumn": 81,
+                        "endOffset": 5864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 5869,
+                    "endColumn": 47,
+                    "endOffset": 5912
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 5869,
+                        "endColumn": 47,
+                        "endOffset": 5912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 5917,
+                    "endColumn": 47,
+                    "endOffset": 5960
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 5917,
+                        "endColumn": 47,
+                        "endOffset": 5960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 5965,
+                    "endColumn": 54,
+                    "endOffset": 6015
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 5965,
+                        "endColumn": 54,
+                        "endOffset": 6015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6020,
+                    "endColumn": 53,
+                    "endOffset": 6069
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 6020,
+                        "endColumn": 53,
+                        "endOffset": 6069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6074,
+                    "endColumn": 45,
+                    "endOffset": 6115
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 6074,
+                        "endColumn": 45,
+                        "endOffset": 6115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6120,
+                    "endColumn": 93,
+                    "endOffset": 6209
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 6120,
+                        "endColumn": 93,
+                        "endOffset": 6209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6214,
+                    "endColumn": 36,
+                    "endOffset": 6246
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6214,
+                        "endColumn": 36,
+                        "endOffset": 6246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6251,
+                    "endColumn": 78,
+                    "endOffset": 6325
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 6251,
+                        "endColumn": 78,
+                        "endOffset": 6325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6330,
+                    "endColumn": 46,
+                    "endOffset": 6372
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 6330,
+                        "endColumn": 46,
+                        "endOffset": 6372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6377,
+                    "endColumn": 40,
+                    "endOffset": 6413
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 6377,
+                        "endColumn": 40,
+                        "endOffset": 6413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6418,
+                    "endLine": 156,
+                    "endColumn": 12,
+                    "endOffset": 6646
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 6418,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 6646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 6651,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 6876
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 6651,
+                        "endLine": 160,
+                        "endColumn": 12,
+                        "endOffset": 6876
+                    }
+                }
+            }
+        ]
+    }
+]

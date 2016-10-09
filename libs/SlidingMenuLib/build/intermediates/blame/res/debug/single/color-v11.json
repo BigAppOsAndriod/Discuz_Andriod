@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/SlidingMenuLib/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/SlidingMenuLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/SlidingMenuLib/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/SlidingMenuLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/raw/keep.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/res/raw/keep.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/raw/city.s3db",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/raw/city.s3db"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/raw/db.sqlite",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/raw/db.sqlite"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/raw/beep.ogg",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/res/merged/clan/debug/raw/androidpn.properties",
+        "source": "/BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/res/raw/androidpn.properties"
+    }
+]

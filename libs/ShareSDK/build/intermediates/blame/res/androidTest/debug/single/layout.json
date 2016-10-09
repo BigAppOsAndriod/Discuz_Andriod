@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/layout/skyblue_editpage_inc_image_layout.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/layout/skyblue_editpage_inc_image_layout.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/layout/skyblue_editpage_at_layout.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/layout/skyblue_editpage_at_layout.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/layout/share_layout.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/layout/share_layout.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/layout/skyblue_share_platform_list_item.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/layout/skyblue_share_platform_list_item.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/layout/skyblue_share_platform_list.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/layout/skyblue_share_platform_list.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/layout/share_item.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/layout/share_item.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/layout/skyblue_editpage.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/layout/skyblue_editpage.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/layout/skyblue_share_actionbar.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/layout/skyblue_share_actionbar.xml"
+    }
+]

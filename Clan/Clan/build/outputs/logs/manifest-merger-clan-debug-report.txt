@@ -1,0 +1,1152 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:2:1-606:12
+	package
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:3:5-29
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+	android:versionName
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:5:5-47
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+	android:versionCode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:4:5-48
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+	xmlns:android
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:AppUtils:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/AppUtils/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:pulltorefresh:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/pulltorefresh/unspecified/AndroidManifest.xml:7:5-43
+MERGED from [BigApp_Discuz_Android:SlidingMenuLib:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/SlidingMenuLib/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:android-viewbadger:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/android-viewbadger/unspecified/AndroidManifest.xml:7:5-43
+MERGED from [BigApp_Discuz_Android:viewpageIndicator:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/viewpageIndicator/unspecified/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:ShareSDK:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ShareSDK/unspecified/AndroidManifest.xml:23:5-25:41
+MERGED from [BigApp_Discuz_Android:AnalysisSDK:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/AnalysisSDK/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:ImageLib:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ImageLib/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:ZUtils:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtils/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:ClanBase:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ClanBase/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:AppUtils:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/AppUtils/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:ZUtils:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtils/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:XhsEmoticonsKeyboard:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/XhsEmoticonsKeyboard/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:ImageLib:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ImageLib/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:ZUtils:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtils/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:BottomTabUI:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/BottomTabUI/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:EasterEgg:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/EasterEgg/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:ZUtilsExt:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExt/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:ZUtils:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtils/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [BigApp_Discuz_Android:ZUtilsExtWidget:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExtWidget/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:ZUtilsExt:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtilsExt/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:ZUtils:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/ZUtils/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [info.hoang8f:android-segmented:1.0.6] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/info.hoang8f/android-segmented/1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [BigApp_Discuz_Android:AppUpdater:unspecified] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/BigApp_Discuz_Android/AppUpdater/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.navasmdc:MaterialDesign:1.5] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.5/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:9:9-38
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:8:9-34
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+supports-screens
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:11:5-16:39
+	android:largeScreens
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:16:9-36
+	android:normalScreens
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:15:9-34
+	android:anyDensity
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:12:9-34
+application
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:18:5-564:19
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:recyclerview-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:recyclerview-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.balysv.materialmenu/material-menu/1.5.4/AndroidManifest.xml:12:5-20
+MERGED from [com.github.navasmdc:MaterialDesign:1.5] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.5/AndroidManifest.xml:11:5-47
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:23:9-41
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:21:9-44
+	android:allowBackup
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:22:9-45
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:19:9-44
+activity#com.youzu.clan.guide.GuideActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:24:9-37:20
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:27:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:26:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:28:13-51
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:25:13-62
+intent-filter#android.intent.action.BADGE_COUNT_UPDATE+android.intent.action.CREATE_SHORTCUT+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:29:13-35:29
+action#android.intent.action.MAIN
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:31:27-74
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:33:25-77
+action#android.intent.action.BADGE_COUNT_UPDATE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:34:17-83
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:34:25-80
+activity#com.youzu.clan.main.qqstyle.QQStyleMainActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:39:9-46:55
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:43:13-47
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:41:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:44:13-44
+	android:icon
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:42:13-49
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:46:13-52
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:40:13-61
+activity#com.youzu.clan.main.sliding.SlidingStyleMainActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:47:9-54:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:51:13-47
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:49:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:52:13-44
+	android:icon
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:54:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:48:13-66
+activity#com.youzu.clan.main.wechatstyle.WeChatStyleMainActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:55:9-61:77
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:58:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:59:13-44
+	android:icon
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:57:13-49
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:56:13-69
+activity#com.youzu.clan.main.bottomtab.BottomTabMainActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:63:9-69:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:66:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:67:13-44
+	android:icon
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:65:13-49
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:69:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:64:13-65
+activity#com.youzu.clan.main.android.PureAndroidMainActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:71:9-77:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:74:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:75:13-44
+	android:icon
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:73:13-49
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:77:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:72:13-65
+activity#com.youzu.clan.login.LoginActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:80:9-85:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:82:13-42
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:83:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:85:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:81:13-62
+activity#com.youzu.clan.login.BindActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:87:9-92:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:91:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:89:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:90:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:92:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:88:13-61
+activity#com.youzu.clan.login.WebLoginActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:94:9-100:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:99:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:97:13-42
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:96:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:98:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:100:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:95:13-65
+activity#com.youzu.clan.login.RegisterActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:102:9-107:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:106:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:104:13-45
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:105:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:107:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:103:13-65
+activity#com.youzu.clan.login.CallBackWebActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:108:9-114:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:113:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:111:13-45
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:110:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:112:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:114:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:109:13-54
+activity#com.youzu.clan.login.YZLoginActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:115:9-120:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:117:13-45
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:118:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:120:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:116:13-64
+activity#com.youzu.clan.message.pm.MyPMActivityOld
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:121:9-126:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:123:13-42
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:124:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:126:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:122:13-55
+activity#com.youzu.clan.message.pm.MyPMActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:127:9-132:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:131:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:129:13-42
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:130:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:132:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:128:13-52
+activity#com.youzu.clan.myfav.MyFavActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:133:9-138:63
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:137:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:135:13-48
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:136:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:138:13-60
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:134:13-62
+activity#com.youzu.clan.article.ArticleListActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:140:9-145:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:144:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:142:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:143:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:145:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:141:13-70
+activity#com.youzu.clan.article.ArticleDetailActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:146:9-152:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:151:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:149:13-51
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:148:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:150:13-42
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:152:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:147:13-72
+activity#com.youzu.clan.thread.detail.ThreadDetailActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:153:9-159:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:158:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:156:13-50
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:155:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:157:13-42
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:159:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:154:13-63
+activity#com.youzu.clan.thread.ThreadReplyActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:160:9-165:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:164:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:162:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:163:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:165:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:161:13-69
+activity#com.youzu.clan.profile.thread.OwnerThreadActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:166:9-171:63
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:170:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:168:13-46
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:169:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:171:13-60
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:167:13-63
+activity#com.youzu.clan.profile.thread.MyThreadActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:172:9-177:63
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:176:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:174:13-46
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:175:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:177:13-60
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:173:13-60
+activity#com.youzu.clan.profile.homepage.HomePageActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:184:9-188:55
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:187:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:186:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:188:13-52
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:185:13-62
+activity#com.youzu.clan.message.pm.ChatActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:189:9-194:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:193:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:191:13-50
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:192:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:194:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:190:13-52
+activity#com.youzu.clan.forum.ForumActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:195:9-200:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:199:13-49
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:197:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:198:13-42
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:200:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:196:13-62
+activity#com.youzu.clan.forum.ForumTypeActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:201:9-205:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:204:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:203:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:205:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:202:13-66
+activity#com.youzu.clan.thread.ThreadNewActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:206:9-211:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:210:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:208:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:209:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:211:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:207:13-53
+activity#com.youzu.clan.thread.ThreadReportActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:212:9-217:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:216:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:214:13-43
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:215:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:217:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:213:13-70
+activity#com.youzu.clan.thread.ThreadPublishActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:219:9-224:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:223:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:221:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:222:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:224:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:220:13-71
+activity#com.youzu.clan.thread.deal.ThreadDealActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:226:9-231:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:230:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:228:13-50
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:229:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:231:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:227:13-73
+activity#com.youzu.clan.common.images.PicSelectorActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:232:9-237:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:236:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:234:13-29
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:235:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:237:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:233:13-62
+activity#com.youzu.clan.common.images.ImagesLookerActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:238:9-243:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:242:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:240:13-29
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:241:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:243:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:239:13-63
+activity#com.youzu.clan.app.WebActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:244:9-250:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:249:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:247:13-29
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:246:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:248:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:250:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:245:13-44
+activity#com.youzu.clan.video.VideoPlayWebActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:251:9-257:54
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:256:13-50
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:254:13-29
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:253:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:255:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:257:13-51
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:252:13-55
+activity#com.youzu.clan.setting.SettingsActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:258:9-263:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:262:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:260:13-45
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:261:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:263:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:259:13-53
+activity#com.youzu.clan.app.AboutActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:264:9-269:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:268:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:266:13-42
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:267:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:269:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:265:13-46
+activity#com.youzu.clan.setting.supersetting.SuperSettingsActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:272:9-277:63
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:276:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:274:13-51
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:275:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:277:13-60
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:273:13-71
+activity#com.youzu.clan.search.SearchActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:279:9-284:71
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:282:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:281:13-43
+	android:windowSoftInputMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:284:13-68
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:283:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:280:13-50
+activity#com.youzu.clan.friends.FriendsActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:286:9-291:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:290:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:288:13-53
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:289:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:291:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:287:13-52
+activity#com.youzu.clan.friends.AddFriendsActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:292:9-297:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:296:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:294:13-54
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:295:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:297:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:293:13-55
+activity#com.youzu.clan.friends.SearchFriendsActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:298:9-304:71
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:302:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:300:13-51
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:301:13-43
+	android:windowSoftInputMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:304:13-68
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:303:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:299:13-58
+activity#com.youzu.clan.friends.NewFriendsActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:305:9-310:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:309:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:307:13-54
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:308:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:310:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:306:13-55
+activity#com.youzu.clan.friends.ApplyFriendsActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:311:9-316:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:315:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:313:13-56
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:314:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:316:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:312:13-57
+activity#com.youzu.clan.act.apply.ActApplyActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:318:9-323:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:322:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:320:13-52
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:321:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:323:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:319:13-55
+activity#com.youzu.clan.act.publish.ActPublishActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:325:9-329:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:328:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:327:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:329:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:326:13-59
+activity#com.youzu.clan.act.publish.ActSelectTypeActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:330:9-334:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:333:13-49
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:332:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:334:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:331:13-62
+activity#com.youzu.clan.act.manage.ActManageActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:335:9-340:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:339:13-49
+	android:hardwareAccelerated
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:337:13-47
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:338:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:340:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:336:13-57
+activity#com.youzu.clan.main.bottomtab.MenuJumpActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:342:9-347:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:346:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:344:13-50
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:345:13-42
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:347:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:343:13-60
+activity#com.mob.tools.MobUIShell
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:350:9-364:20
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:353:13-49
+	android:windowSoftInputMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:355:13-67
+	android:configChanges
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:352:13-74
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:354:13-72
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:351:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:356:13-363:29
+data
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:357:17-59
+	android:scheme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:357:23-56
+action#android.intent.action.VIEW
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:359:17-69
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:359:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:361:17-78
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:361:27-75
+category#android.intent.category.DEFAULT
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:362:17-76
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:362:27-73
+activity#com.kit.share.wxapi.WXEntryActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:367:9-372:75
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:371:13-49
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:370:13-36
+	android:configChanges
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:369:13-74
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:372:13-72
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:368:13-63
+activity#cn.sharesdk.demo.wxapi.WXEntryActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:374:9-379:75
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:378:13-49
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:377:13-36
+	android:configChanges
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:376:13-74
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:379:13-72
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:375:13-66
+activity#com.youzu.clan.wxapi.WXEntryActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:381:9-386:75
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:385:13-49
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:384:13-36
+	android:configChanges
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:383:13-74
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:386:13-72
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:382:13-50
+activity#com.kit.imagelib.HostActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:392:9-400:20
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:395:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:394:13-45
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:396:13-44
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:393:13-57
+intent-filter#android.intent.action.MAIN
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:397:13-399:29
+activity#com.kit.imagelib.photoselector.PicSelectActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:401:9-405:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:404:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:403:13-29
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:405:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:402:13-76
+activity#com.kit.imagelib.imagelooker.ImageBrowserActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:406:9-408:52
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:408:13-49
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:407:13-77
+activity#com.kit.imagelib.imagelooker.ImagesLookerActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:409:9-414:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:413:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:411:13-29
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:412:13-43
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:414:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:410:13-77
+activity#com.kit.imagelib.banner.MainActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:416:9-421:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:420:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:418:13-50
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:419:13-44
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:421:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:417:13-64
+activity#com.kit.widget.selector.selectonefromlist.SelectOneFromListActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:424:9-429:53
+	android:screenOrientation
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:428:13-49
+	android:label
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:426:13-50
+	android:launchMode
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:427:13-44
+	android:theme
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:429:13-50
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:425:13-95
+meta-data#SHARESDK_APPKEY
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:435:9-437:50
+	android:value
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:437:13-47
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:436:13-43
+meta-data#SHARESDK_CHANNEL
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:438:9-440:51
+	android:value
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:440:13-48
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:439:13-44
+service#cn.sharesdk.server.RemoteService
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:443:9-445:41
+	android:process
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:445:13-38
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:444:13-60
+activity#cn.sharesdk.feedback.ConversationActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:447:9-78
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:447:19-75
+activity#cn.sharesdk.feedback.ContactActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:448:9-73
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:448:19-70
+service#com.youzu.clan.app.service.ClanService
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:451:9-60
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:451:18-57
+activity#cn.jpush.android.ui.PushActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:454:9-464:20
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:457:13-37
+	android:configChanges
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:456:13-63
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:455:13-60
+intent-filter#android.intent.category.DEFAULT+cn.jpush.android.ui.PushActivity+com.euyyue.bbs
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:458:13-463:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:459:17-75
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:459:25-72
+category#com.euyyue.bbs
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:462:17-59
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:462:27-56
+service#cn.jpush.android.service.DownloadService
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:466:9-469:40
+	android:enabled
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:468:13-35
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:469:13-37
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:467:13-68
+service#cn.jpush.android.service.PushService
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:473:9-484:19
+	android:enabled
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:475:13-35
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:476:13-37
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:474:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:477:13-483:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:478:17-75
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:478:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:479:17-73
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:479:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:480:17-78
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:480:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:481:17-76
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:481:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:487:9-495:19
+	android:enabled
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:489:13-35
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:490:13-36
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:488:13-66
+intent-filter#cn.jpush.android.intent.DaemonService+com.euyyue.bbs
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:491:13-494:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:492:17-80
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:492:25-77
+service#com.loveplusplus.update.DownloadService
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:498:9-500:39
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:500:13-36
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:499:13-67
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:504:9-525:20
+	android:enabled
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:506:13-35
+	android:exported
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:507:13-37
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:505:13-65
+intent-filter#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY+com.euyyue.bbs
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:508:13-512:29
+	android:priority
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:508:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:509:17-94
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:509:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:513:13-516:29
+action#android.intent.action.USER_PRESENT
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:514:17-77
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:514:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:515:17-79
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:515:25-76
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:528:9-75
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:528:19-72
+meta-data#JPUSH_CHANNEL
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:555:9-557:48
+	android:value
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:557:13-45
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:556:13-41
+meta-data#JPUSH_APPKEY
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:558:9-560:47
+	android:value
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:560:13-44
+		INJECTED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:559:13-40
+uses-library#com.google.android.browser
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:566:5-63
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:566:19-60
+uses-permission#android.permission.INTERNET
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:568:5-67
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:568:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:569:5-81
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:569:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:570:5-84
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:570:22-81
+uses-permission#android.permission.GET_TASKS
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:571:5-68
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:571:22-65
+uses-permission#android.permission.REAL_GET_TASKS
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:572:5-73
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:572:22-70
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:574:5-76
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:574:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:575:5-79
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:575:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:576:5-76
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:576:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:577:5-75
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:577:22-72
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:578:5-74
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:578:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:579:5-71
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:579:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:580:5-79
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:580:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:581:5-66
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:581:22-63
+permission#com.euyyue.bbs.permission.JPUSH_MESSAGE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:584:5-586:47
+	android:protectionLevel
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:586:9-44
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:585:9-63
+uses-permission#com.euyyue.bbs.permission.JPUSH_MESSAGE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:589:5-79
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:589:22-76
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:590:5-79
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:590:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:591:5-68
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:591:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:592:5-80
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:592:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:593:5-73
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:593:22-70
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:594:5-78
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:594:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:597:5-81
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:597:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:598:5-89
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:598:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:599:5-79
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:599:22-76
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:603:5-73
+	android:name
+		ADDED from /BigApp/BigApp_Discuz_Android/Clan/Clan/AndroidManifest.xml:603:22-70
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/AndroidManifest.xml:23:9-25:56
+MERGED from [com.android.support:recyclerview-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/AndroidManifest.xml:23:9-25:56
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/AndroidManifest.xml:25:13-53
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:22.1.1] /BigApp/BigApp_Discuz_Android/Clan/Clan/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.1/AndroidManifest.xml:24:13-66

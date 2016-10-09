@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/BigApp/BigApp_Discuz_Android/Clan/Clan/src/androidTest/assets"/><source path="/BigApp/BigApp_Discuz_Android/Clan/Clan/build/generated/assets/shaders/androidTest/clan/debug"/></dataSet><dataSet config="clan"><source path="/BigApp/BigApp_Discuz_Android/Clan/Clan/src/androidTestClan/assets"/></dataSet></merger>

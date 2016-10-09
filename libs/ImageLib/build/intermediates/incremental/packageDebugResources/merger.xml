@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res"/><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/build/generated/res/rs/debug"/><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/build-types/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res"><file name="dot_focused" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable/dot_focused.xml" qualifiers="" type="drawable"/><file name="dot_normal" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable/dot_normal.xml" qualifiers="" type="drawable"/><file name="progressbar_white_small" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable/progressbar_white_small.xml" qualifiers="" type="drawable"/><file name="abc" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/abc.png" qualifiers="hdpi-v4" type="drawable"/><file name="friends_sends_pictures_select_icon_selected" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/friends_sends_pictures_select_icon_selected.png" qualifiers="hdpi-v4" type="drawable"/><file name="friends_sends_pictures_select_icon_unselected" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/friends_sends_pictures_select_icon_unselected.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_back" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/ic_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_del" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/ic_del.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_del_x" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/ic_del_x.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_image_select_add" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/ic_image_select_add.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="icon_addpic_focused" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/icon_addpic_focused.png" qualifiers="hdpi-v4" type="drawable"/><file name="no_picture" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/no_picture.png" qualifiers="hdpi-v4" type="drawable"/><file name="pictures_select_icon" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/pictures_select_icon.xml" qualifiers="hdpi-v4" type="drawable"/><file name="tk_photo" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/tk_photo.png" qualifiers="hdpi-v4" type="drawable"/><file name="yt_btn_back_normal" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-hdpi/yt_btn_back_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-xxhdpi/loading.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="loading_round" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-xxhdpi/loading_round.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="no_picture_round" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/drawable-xxhdpi/no_picture_round.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_banner_main" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/activity_banner_main.xml" qualifiers="" type="layout"/><file name="activity_imagebrowser" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/activity_imagebrowser.xml" qualifiers="" type="layout"/><file name="activity_imagelooker" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/activity_imagelooker.xml" qualifiers="" type="layout"/><file name="ad_bottom_item" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/ad_bottom_item.xml" qualifiers="" type="layout"/><file name="ad_scroll_image" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/ad_scroll_image.xml" qualifiers="" type="layout"/><file name="item_imageslooker_photoview" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/item_imageslooker_photoview.xml" qualifiers="" type="layout"/><file name="item_publish" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/item_publish.xml" qualifiers="" type="layout"/><file name="publish" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/publish.xml" qualifiers="" type="layout"/><file name="the_picture_selection" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/the_picture_selection.xml" qualifiers="" type="layout"/><file name="the_picture_selection_item" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/the_picture_selection_item.xml" qualifiers="" type="layout"/><file name="the_picture_selection_pop" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/the_picture_selection_pop.xml" qualifiers="" type="layout"/><file name="the_picture_selection_pop_item" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/layout/the_picture_selection_pop_item.xml" qualifiers="" type="layout"/><file name="activity_main" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/menu/activity_main.xml" qualifiers="" type="menu"/><file name="menu_image_looker" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/menu/menu_image_looker.xml" qualifiers="" type="menu"/><file name="menu_pic_select" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/menu/menu_pic_select.xml" qualifiers="" type="menu"/><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values/arrays_blurred_imageview.xml" qualifiers=""><string-array name="blurred_imageview_list_content">
+        <item> "Lorem ipsum dolor sit amet, </item>
+        <item>consectetur adipiscing elit. Sed rutrum, </item>
+        <item>ligula eu fringilla condimentum, </item>
+        <item>lorem augue varius odio, vel sagittis neque nibh porttitor dui. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Duis a est ultricies, accumsan mi a, </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>pulvinar felis. </item>
+        <item>In hac habitasse platea dictumst. </item>
+        <item>Nullam at accumsan neque, ut dignissim neque. </item>
+        <item>Vivamus suscipit arcu sit amet dignissim feugiat. </item>
+        <item>Sed fringilla metus at ultricies tempus. </item>
+        <item>In lobortis, sem vel rhoncus hendrerit, odio diam rutrum ipsum, ut varius lorem dui at mauris. </item>
+        <item>Vestibulum lobortis et quam non convallis. Phasellus viverra porta nisl, eu luctus erat tincidunt et. </item>
+        <item>Maecenas ac lorem dapibus, dictum turpis quis, blandit mi." </item>
+    </string-array></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values/circle_imageview_attrs.xml" qualifiers=""><declare-styleable name="CircleImageView">
+        <!--填充色-->
+        <attr format="color" name="solid_color"/>
+
+        <!--边框宽度-->
+        <attr format="dimension" name="border_width"/>
+
+        <!--边框颜色-->
+        <attr format="color" name="border_color"/>
+
+
+        <!--边框是否附着在图片上面-->
+        <attr format="boolean" name="border_overlay"/>
+
+        <!--剪切边距-->
+        <attr format="dimension" name="border_crop"/>
+    </declare-styleable></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values/gif_drawable_attrs.xml" qualifiers=""><declare-styleable name="GifView">
+        <attr format="boolean" name="freezesAnimation"/>
+    </declare-styleable><declare-styleable name="GifTextureView">
+        <attr format="reference|string" name="gifSource"/>
+        <attr format="boolean" name="isOpaque"/>
+    </declare-styleable></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values/round_progressbar_attrs.xml" qualifiers=""><declare-styleable name="RoundProgressBar">  
+        <attr format="color" name="RoundProgressBar_roundColor"/>
+        <attr format="color" name="RoundProgressBar_roundProgressColor"/>
+        <attr format="dimension" name="RoundProgressBar_roundWidth"/>
+        <attr format="color" name="RoundProgressBar_textColor"/>
+        <attr format="dimension" name="RoundProgressBar_textSize"/>
+        <attr format="integer" name="RoundProgressBar_max"/>
+        <attr format="boolean" name="RoundProgressBar_textIsDisplayable"/>
+        <attr name="RoundProgressBar_style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values/rounded_imageview_attrs.xml" qualifiers=""><declare-styleable name="RoundedImageView">
+        <attr format="dimension" name="riv_corner_radius"/>
+        <attr format="dimension" name="riv_corner_radius_top_left"/>
+        <attr format="dimension" name="riv_corner_radius_top_right"/>
+        <attr format="dimension" name="riv_corner_radius_bottom_left"/>
+        <attr format="dimension" name="riv_corner_radius_bottom_right"/>
+        <attr format="dimension" name="riv_border_width"/>
+        <attr format="color" name="riv_border_color"/>
+        <attr format="boolean" name="riv_mutate_background"/>
+        <attr format="boolean" name="riv_oval"/>
+        <attr name="android:scaleType"/>
+        <attr name="riv_tile_mode">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+        <attr name="riv_tile_mode_x">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+        <attr name="riv_tile_mode_y">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+    </declare-styleable></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values/strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="wait_a_moment">正在加载,请稍等</string><string name="action_settings">Settings</string><string name="app_name">ImageLib</string><string name="load_failed">加载失败</string><string name="complete">完成</string><string name="save">保存</string><string name="save_successed">保存成功</string><string name="save_failed">保存失败</string></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+
+        <!-- <item name="actionSheetStyle">@style/ActionSheetStyleIOS6</item> -->
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="AppBaseTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+
+
+        -->
+    </style></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/build/generated/res/rs/debug"/><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/build-types/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircleImageView"><attr format="color" name="solid_color"/><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="border_overlay"/><attr format="dimension" name="border_crop"/></declare-styleable><declare-styleable name="RoundedImageView"><attr format="dimension" name="riv_corner_radius"/><attr format="dimension" name="riv_corner_radius_top_left"/><attr format="dimension" name="riv_corner_radius_top_right"/><attr format="dimension" name="riv_corner_radius_bottom_left"/><attr format="dimension" name="riv_corner_radius_bottom_right"/><attr format="dimension" name="riv_border_width"/><attr format="color" name="riv_border_color"/><attr format="boolean" name="riv_mutate_background"/><attr format="boolean" name="riv_oval"/><attr name="android:scaleType"/><attr name="riv_tile_mode"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_x"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_y"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr></declare-styleable><declare-styleable name="GifView"><attr format="boolean" name="freezesAnimation"/></declare-styleable><declare-styleable name="RoundProgressBar"><attr format="color" name="RoundProgressBar_roundColor"/><attr format="color" name="RoundProgressBar_roundProgressColor"/><attr format="dimension" name="RoundProgressBar_roundWidth"/><attr format="color" name="RoundProgressBar_textColor"/><attr format="dimension" name="RoundProgressBar_textSize"/><attr format="integer" name="RoundProgressBar_max"/><attr format="boolean" name="RoundProgressBar_textIsDisplayable"/><attr name="RoundProgressBar_style"><enum name="STROKE" value="0"/><enum name="FILL" value="1"/></attr></declare-styleable><declare-styleable name="GifTextureView"><attr format="reference|string" name="gifSource"/><attr format="boolean" name="isOpaque"/></declare-styleable></configuration></mergedItems></merger>

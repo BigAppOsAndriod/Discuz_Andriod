@@ -1,0 +1,545 @@
+[
+    {
+        "outputFile": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 68,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 55,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 193,
+                        "endColumn": 55,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 49,
+                    "endOffset": 294
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 49,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 299,
+                    "endColumn": 49,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 49,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 66,
+                    "endOffset": 411
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 349,
+                        "endColumn": 66,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 416,
+                    "endColumn": 62,
+                    "endOffset": 474
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 62,
+                        "endOffset": 474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 479,
+                    "endColumn": 59,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 479,
+                        "endColumn": 59,
+                        "endOffset": 534
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 56,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 539,
+                        "endColumn": 56,
+                        "endOffset": 591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 66,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 66,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 69,
+                    "endOffset": 728
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 69,
+                        "endOffset": 728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 733,
+                    "endColumn": 70,
+                    "endOffset": 799
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 70,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 804,
+                    "endColumn": 64,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 64,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 63,
+                    "endOffset": 928
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 63,
+                        "endOffset": 928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 933,
+                    "endColumn": 58,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 933,
+                        "endColumn": 58,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 66,
+                    "endOffset": 1054
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 66,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1059,
+                    "endColumn": 48,
+                    "endOffset": 1103
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 48,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1108,
+                    "endColumn": 64,
+                    "endOffset": 1168
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 64,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1173,
+                    "endColumn": 63,
+                    "endOffset": 1232
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 63,
+                        "endOffset": 1232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1237,
+                    "endColumn": 59,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1237,
+                        "endColumn": 59,
+                        "endOffset": 1292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 65,
+                    "endOffset": 1358
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1297,
+                        "endColumn": 65,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1363,
+                    "endColumn": 67,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1363,
+                        "endColumn": 67,
+                        "endOffset": 1426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 58,
+                    "endOffset": 1485
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1431,
+                        "endColumn": 58,
+                        "endOffset": 1485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1490,
+                    "endColumn": 55,
+                    "endOffset": 1541
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1490,
+                        "endColumn": 55,
+                        "endOffset": 1541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1546,
+                    "endColumn": 55,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1546,
+                        "endColumn": 55,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1602,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 1734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1739,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1968
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1739,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1973,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2165
+                },
+                "from": {
+                    "file": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 2165
+                    }
+                }
+            }
+        ]
+    }
+]

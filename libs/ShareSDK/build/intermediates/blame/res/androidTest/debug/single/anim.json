@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/anim/push_bottom_in.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/anim/push_bottom_in2.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/anim/push_bottom_in2.xml"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/res/merged/androidTest/debug/anim/push_bottom_out.xml",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/ShareSDK/build/intermediates/bundles/debug/res/anim/push_bottom_out.xml"
+    }
+]

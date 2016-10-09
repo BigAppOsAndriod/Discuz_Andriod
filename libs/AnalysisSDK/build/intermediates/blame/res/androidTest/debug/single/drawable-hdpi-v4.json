@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/analysissdk_dialog_bg.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/analysissdk_dialog_bg.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/analysissdk_ptr_ptr.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/analysissdk_ptr_ptr.png"
+    }
+]

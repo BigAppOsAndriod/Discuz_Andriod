@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBar.Base" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="background">@color/bg_title</item>
+        <item name="backgroundStacked">@color/bg_title</item>
+        <item name="titleTextStyle">@style/ActionBar.TitleText</item>
+        <item name="actionBarDivider">@color/bg_title</item>
+
+        <!-- 去除actionbar下面的阴影Start-->
+        <item name="elevation">0dp</item>
+        <!-- 去除actionbar下面的阴影End-->
+    </style>
+    <style name="ActionBar.TitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textSize">@dimen/text_size_5</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="ActionBarMenu.Text" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Menu">
+        <item name="android:textSize">@dimen/text_size_4</item>
+        <item name="android:textColor">@color/text_black</item>
+    </style>
+    <style name="ActionBarPopupTheme.Base" parent="@style/ThemeOverlay.AppCompat.Dark">
+        <item name="android:colorBackground">@color/bg_popup</item>
+        <item name="titleTextStyle">@style/ActionBar.TitleText</item>
+    </style>
+    <style name="ActionBarTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- 去除actionbar下面的阴影Start -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 去除actionbar下面的阴影End -->
+
+        <item name="actionBarStyle">@style/ActionBar.Base</item>
+        <item name="actionBarSize">@dimen/height_navigation</item>
+        <item name="actionMenuTextAppearance">@style/ActionBarMenu.Text</item>
+        <!-- <item name="vpiTabPageIndicatorStyle">@style/NormalTabPageIndicator</item>-->
+        <item name="actionBarPopupTheme">@style/ActionBarPopupTheme.Base</item>
+        <item name="actionOverflowMenuStyle">@style/ActionOverflowMenuStyle.Base</item>
+    </style>
+    <style name="ActionBarTheme.Tab.Small" parent="@style/ActionBarTheme">
+        <item name="vpiTabPageIndicatorStyle">@style/SmallTabPageIndicator</item>
+    </style>
+    <style name="ActionBarThemeNoTabPageIndicatorStyle" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- 去除actionbar下面的阴影Start -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 去除actionbar下面的阴影End -->
+
+        <item name="actionBarStyle">@style/ActionBar.Base</item>
+        <item name="actionBarSize">@dimen/height_navigation</item>
+        <item name="actionMenuTextAppearance">@style/ActionBarMenu.Text</item>
+        <item name="actionBarPopupTheme">@style/ActionBarPopupTheme.Base</item>
+        <item name="actionOverflowMenuStyle">@style/ActionOverflowMenuStyle.Base</item>
+    </style>
+    <style name="ActionBarThemeYellowTabPageIndicator" parent="ActionBarTheme">
+        <item name="vpiTabPageIndicatorStyle">@style/SearchTabPageIndicator</item>
+    </style>
+    <style name="ActionOverflowMenuStyle.Base" parent="@style/Widget.AppCompat.PopupMenu.Overflow">
+        <item name="overlapAnchor">false</item>
+        <!--<item name="android:popupBackground">@drawable/bg_popup_menu</item>-->
+        <item name="android:popupBackground">@drawable/bg_menu</item>
+        <item name="android:dropDownVerticalOffset">0.5dip</item>
+    </style>
+    <style name="AppActionBarBaseTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBarOverlay">true</item>
+
+        <!-- 去除actionbar下面的阴影Start -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 去除actionbar下面的阴影End -->
+    </style>
+    <style name="AppNoActionBarBaseTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBarOverlay">true</item>
+
+        <!-- 去除actionbar下面的阴影Start -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 去除actionbar下面的阴影End -->
+    </style>
+    <style name="CustomTabPageIndicator.Text" parent="android:TextAppearance.Medium">
+        <item name="android:typeface">monospace</item>
+    </style>
+    <style name="FullscreenTheme" parent="AppNoActionBarBaseTheme">
+        <item name="android:windowFullscreen">true</item>
+        <!--<item name="android:windowBackground">@drawable/bg_splash</item>-->
+    </style>
+    <style name="NoActionBarTheme" parent="AppNoActionBarBaseTheme">
+    </style>
+    <style name="NoActionBarThemeYellowTabPageIndicator" parent="NoActionBarTheme">
+        <item name="vpiTabPageIndicatorStyle">@style/SearchTabPageIndicator</item>
+    </style>
+    <style name="NormalTabPageIndicator" parent="Widget.TabPageIndicator">
+        <!-- 点击时在不同状态下显示的背景色 -->
+        <item name="android:background">@color/bg_title</item>
+        <!-- 分割线图片设置 -->
+        <item name="android:divider">@drawable/indicator_divider</item>
+        <!-- 设置分割线的显示位置，或是不显示 -->
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">10dp</item>
+
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@drawable/selector_tab_text</item>
+        <item name="android:textSize">@dimen/text_size_4</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:fadingEdgeLength">0dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+    </style>
+    <style name="PureAndroidActionBarTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+
+        <!-- 去除actionbar下面的阴影Start -->
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 去除actionbar下面的阴影End -->
+
+        <item name="actionBarStyle">@style/ActionBar.Base</item>
+        <item name="actionBarSize">@dimen/height_navigation</item>
+        <item name="actionMenuTextAppearance">@style/ActionBarMenu.Text</item>
+        <item name="vpiTabPageIndicatorStyle">@style/PureAndroidTabPageIndicator</item>
+        <item name="actionBarPopupTheme">@style/ActionBarPopupTheme.Base</item>
+        <item name="actionOverflowMenuStyle">@style/ActionOverflowMenuStyle.Base</item>
+    </style>
+    <style name="PureAndroidSearchTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:background">@color/white</item>
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@color/selector_search_text</item>
+        <item name="android:textSize">@dimen/text_size_4</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8dp</item>
+    </style>
+    <style name="PureAndroidSearchTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="vpiTabPageIndicatorStyle">@style/PureAndroidSearchTabPageIndicator</item>
+    </style>
+    <style name="PureAndroidTabPageIndicator" parent="Widget.TabPageIndicator">
+        <!-- 点击时在不同状态下显示的背景色 -->
+        <item name="android:background">@color/bg_title</item>
+        <!-- 分割线图片设置 -->
+        <item name="android:divider">@null</item>
+        <!-- 设置分割线的显示位置，或是不显示 -->
+        <item name="showDividers">none</item>
+        <item name="dividerPadding">10dp</item>
+
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@drawable/selector_tab_text</item>
+        <item name="android:textSize">@dimen/text_size_4</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:fadingEdgeLength">0dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+    </style>
+    <style name="SearchTabPageIndicator" parent="Widget.TabPageIndicator">
+        <item name="android:background">@drawable/selector_search_tab_indicator</item>
+        <item name="android:textAppearance">@style/CustomTabPageIndicator.Text</item>
+        <item name="android:textColor">@color/selector_search_text</item>
+        <item name="android:textSize">@dimen/text_size_4</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:fadingEdge">horizontal</item>
+        <item name="android:fadingEdgeLength">8dp</item>
+    </style>
+    <style name="SearchTheme" parent="AppNoActionBarBaseTheme">
+        <item name="vpiTabPageIndicatorStyle">@style/SearchTabPageIndicator</item>
+    </style>
+    <style name="SmallTabPageIndicator" parent="NormalTabPageIndicator">
+        <item name="android:textSize">@dimen/text_size_3</item>
+    </style>
+    <style name="TitleText">
+        <item name="android:textSize">@dimen/text_size_5</item>
+        <item name="android:textColor">@color/text_navigation</item>
+    </style>
+</resources>

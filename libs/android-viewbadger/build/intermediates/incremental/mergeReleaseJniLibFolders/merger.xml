@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/BigApp/BigApp_Discuz_Android/libs/android-viewbadger/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/BigApp/BigApp_Discuz_Android/libs/android-viewbadger/build-types/release/jniLibs"/></dataSet></merger>

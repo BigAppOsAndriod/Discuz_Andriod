@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/libs"><file name="android-gif-drawable1.0.12.jar" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/libs/android-gif-drawable1.0.12.jar"/><file name="universal-image-loader-1.9.4.jar" path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/libs/universal-image-loader-1.9.4.jar"/></source></dataSet><dataSet config="release"><source path="/BigApp/BigApp_Discuz_Android/libs/ImageLib/build-types/release/jniLibs"/></dataSet></merger>

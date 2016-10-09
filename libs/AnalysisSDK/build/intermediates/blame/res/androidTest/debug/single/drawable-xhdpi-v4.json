@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_fb_chat_from_bg_pressed.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_fb_chat_from_bg_pressed.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_sharesdk_icon.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_sharesdk_icon.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_fb_input_bg_normal.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_fb_input_bg_normal.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_update_check_on.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_update_check_on.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_fb_input_bg_focus.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_fb_input_bg_focus.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_fb_chat_to_bg_normal.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_fb_chat_to_bg_normal.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_update_check_off.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_update_check_off.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_menu_addcontact.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_menu_addcontact.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_fb_chat_from_bg_normal.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_fb_chat_from_bg_normal.9.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_back_arrow.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_back_arrow.png"
+    },
+    {
+        "merged": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/analysissdk_fb_chat_to_bg_pressed.9.png",
+        "source": "/BigApp/BigApp_Discuz_Android/libs/AnalysisSDK/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/analysissdk_fb_chat_to_bg_pressed.9.png"
+    }
+]
